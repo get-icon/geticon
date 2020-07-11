@@ -1,0 +1,16 @@
+{
+  "name": "stack-icons",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "eslint": "^7.4.0",
+    "prettier": "^2.0.5"
+  },
+  "dependencies": {
+    "eslint-config-prettier": "^6.11.0"
+  }
+}
