@@ -31,9 +31,9 @@ fs.readFileSync(inputFile, 'utf-8')
     } else {
       tempArr.push(
         template
-          .replace('${urlPrefix}', urlPrefix)
-          .replace('${iconSvg}', techObj.files[0])
-          .replace('${formalName}', techObj.name),
+          .replace(/\$\{urlPrefix\}/g, urlPrefix)
+          .replace(/\$\{iconSvg\}/g, techObj.files[0])
+          .replace(/\$\{formalName\}/g, techObj.name),
       )
     }
   })
