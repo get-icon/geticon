@@ -4,8 +4,9 @@ const urlPrefix = 'https://github.com/tomchen/stack-icons/blob/master/logos/'
 const logosJson = 'logos.json'
 const inputFile = 'input.txt'
 const outputFile = 'output.md'
+const iconSizeInPixel = 21
 const template =
-  '<img src="${urlPrefix}${iconSvg}" alt="${formalName}" title="${formalName}" width="21px" height="21px"></img>'
+  '<a href="${itemWebsiteUrl}" title="${itemFormalName}"><img src="${urlPrefix}${itemSvgUrl}" alt="${itemFormalName}" width="${iconSizeInPixel}px" height="${iconSizeInPixel}px"></img></a>'
 const separator = '\n'
 
 const logos = JSON.parse(fs.readFileSync(logosJson))
@@ -32,8 +33,10 @@ fs.readFileSync(inputFile, 'utf-8')
       tempArr.push(
         template
           .replace(/\$\{urlPrefix\}/g, urlPrefix)
-          .replace(/\$\{iconSvg\}/g, techObj.files[0])
-          .replace(/\$\{formalName\}/g, techObj.name),
+          .replace(/\$\{iconSizeInPixel\}/g, iconSizeInPixel.toString())
+          .replace(/\$\{itemSvgUrl\}/g, techObj.files[0])
+          .replace(/\$\{itemFormalName\}/g, techObj.name)
+          .replace(/\$\{itemWebsiteUrl\}/g, techObj.url),
       )
     }
   })
