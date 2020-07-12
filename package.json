@@ -6,11 +6,10 @@
   "scripts": {
     "start": "node index.js"
   },
+  "dependencies": {},
   "devDependencies": {
     "eslint": "^7.4.0",
+    "eslint-config-prettier": "^6.11.0",
     "prettier": "^2.0.5"
-  },
-  "dependencies": {
-    "eslint-config-prettier": "^6.11.0"
   }
 }
