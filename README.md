@@ -1,8 +1,8 @@
 # Stack Icons
 
-Web / IT project stack / tool / technique icon / logo collection and markdown / HTML generator.
+Web / IT project programming language / tool / package / library / technology icon / logo collection and markdown / HTML generator.
 
-It helps you list your project stack (tools & techniques used or favored by you).
+It helps you list your stack, which is the set of tools & technologies used by your project or favored by you.
 
 Examples:
 
@@ -59,7 +59,12 @@ Examples:
 <a href="https://www.r-project.org/" title="R"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/r-lang.svg" alt="R" width="21px" height="21px"></img></a>
 <a href="https://nsis.sourceforge.io/" title="NSIS"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/nsis.svg" alt="NSIS" width="21px" height="21px"></img></a>
 
-**Usage:** Run `yarn start` / `npm start` to generate "output.md" file
+| **Usage** | <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/nodejs-icon.svg" alt="Node.js" width="40px" height="40px"></img></a> | <a href="https://deno.land/" title="Deno"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/deno.svg" alt="Deno" width="40px" height="40px"></img></a> |
+|:---:|:---:|:---:|
+| <a href="https://www.npmjs.com/" title="NPM"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/npm.svg" alt="NPM" width="40px" height="40px"></img></a> | `npm start` | `npm run start:deno` |
+| <a href="https://yarnpkg.com/" title="Yarn"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/yarn.svg" alt="Yarn" width="40px" height="40px"></img></a> | `yarn start` | `yarn start:deno` |
+
+to generate **output.md** file from data (one technology name per line, case-insensitive) in **input.txt** with settings in **settings.json**.
 
 ## Rationale
 
@@ -67,7 +72,7 @@ These programming languages / libraries / development tools / software packages 
 
 ## Icons
 
-The icons are mostly copied from [Gil Barbara's repo](https://github.com/gilbarbara/logos):
+The icons are mostly copied from [Gil Barbara's repo](https://github.com/gilbarbara/logos).
 
 Some are collected by Tom Chen:
 
@@ -97,7 +102,7 @@ Some are collected by Tom Chen:
 
 * [ ] allow more customization
 * [ ] web tool
-* [ ] extract list from package.json
+* [ ] able to extract list from a package.json file
 * [ ] insert code into README.md automatically, possible to use CI
 * [ ] possible to combine all icon svgs and render as one svg
 * [ ] more icons

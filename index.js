@@ -1,15 +1,21 @@
-const fs = require('fs')
+const isDeno = typeof Deno !== 'undefined'
+const fs = !isDeno && require('fs')
+const rd = isDeno ? Deno.readTextFileSync : fs.readFileSync
+const wt = isDeno ? Deno.writeTextFileSync : fs.writeFileSync
 
-const urlPrefix = 'https://github.com/tomchen/stack-icons/blob/master/logos/'
+const settingsJson = 'settings.json'
 const logosJson = 'logos.json'
-const inputFile = 'input.txt'
-const outputFile = 'output.md'
-const iconSizeInPixel = 21
-const template =
-  '<a href="${itemWebsiteUrl}" title="${itemFormalName}"><img src="${urlPrefix}${itemSvgUrl}" alt="${itemFormalName}" width="${iconSizeInPixel}px" height="${iconSizeInPixel}px"></img></a>'
-const separator = '\n'
+const settings = JSON.parse(rd(settingsJson))
+const {
+  urlPrefix,
+  inputFile,
+  outputFile,
+  iconSizeInPixel,
+  template,
+  separator,
+} = settings
 
-const logos = JSON.parse(fs.readFileSync(logosJson))
+const logos = JSON.parse(rd(logosJson))
 const logoIndex = {}
 for (const logo of logos) {
   logoIndex[logo.name.toLowerCase()] = logo
@@ -21,7 +27,7 @@ for (const logo of logos) {
 
 let tempArr = []
 
-fs.readFileSync(inputFile, 'utf-8')
+rd(inputFile, 'utf-8')
   .split(/\r?\n/)
   .filter((line) => !/^\s*$/.test(line))
   .forEach((line) => {
@@ -41,4 +47,4 @@ fs.readFileSync(inputFile, 'utf-8')
     }
   })
 
-fs.writeFileSync(outputFile, tempArr.join(separator))
+wt(outputFile, tempArr.join(separator))

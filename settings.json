@@ -1,0 +1,8 @@
+{
+  "urlPrefix": "https://github.com/tomchen/stack-icons/blob/master/logos/",
+  "inputFile": "input.txt",
+  "outputFile": "output.md",
+  "iconSizeInPixel": 21,
+  "template": "<a href=\"${itemWebsiteUrl}\" title=\"${itemFormalName}\"><img src=\"${urlPrefix}${itemSvgUrl}\" alt=\"${itemFormalName}\" width=\"${iconSizeInPixel}px\" height=\"${iconSizeInPixel}px\"></img></a>",
+  "separator": "\n"
+}
