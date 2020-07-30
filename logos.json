@@ -5475,7 +5475,7 @@
     ]
   },
   {
-    "name": "NPM",
+    "name": "npm",
     "shortname": "npm",
     "url": "https://www.npmjs.com/",
     "files": [

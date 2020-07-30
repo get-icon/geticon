@@ -1,5 +1,7 @@
 # Stack Icons
 
+[![MIT License](https://img.shields.io/github/license/tomchen/stack-icons)](https://github.com/tomchen/stack-icons/blob/master/LICENSE "MIT License")
+
 Web / IT project programming language / tool / package / library / technology icon / logo collection and markdown / HTML generator.
 
 It helps you list your stack, which is the set of tools & technologies used by your project or favored by you.
@@ -106,6 +108,8 @@ Some are collected by Tom Chen:
 * [ ] insert code into README.md automatically, possible to use CI
 * [ ] possible to combine all icon svgs and render as one svg
 * [ ] more icons
+* [ ] able to generate acronym icons for packages without icon
+* [ ] release as an npm package
 
 ## Licenses
 
