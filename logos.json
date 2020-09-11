@@ -1183,8 +1183,9 @@
     ]
   },
   {
-    "name": "C Sharp (C#) ",
+    "name": "C#",
     "shortname": "c-sharp",
+    "aliases": ["C Sharp"],
     "url": "https://csharp.net/",
     "files": [
       "c-sharp.svg"

@@ -68,6 +68,10 @@ Examples:
 
 to generate **output.md** file from data (one technology name per line, case-insensitive) in **input.txt** with settings in **settings.json**.
 
+<p align="center">
+<img src="https://github.com/tomchen/stack-icons/blob/master/stack-icons-preview.png" alt="Stack Icons Project social preview image" title="Stack Icons Project social preview image">
+</p>
+
 ## Rationale
 
 These programming languages / libraries / development tools / software packages are helpful, mostly free and open-source, not-for-profit. If we use them in our project, showing their icons, preferably with their links, to give them appropriate credit on our project's homepage, is the least and the easiest we can do.
@@ -102,6 +106,7 @@ Some are collected by Tom Chen:
 
 ## To do
 
+* [ ] bug: can't show Google Analytics logo?
 * [ ] allow more customization
 * [ ] web tool
 * [ ] able to extract list from a package.json file
