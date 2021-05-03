@@ -4021,6 +4021,14 @@
     ]
   },
   {
+    "name": "Sapper",
+    "shortname": "sapper",
+    "url": "https://sapper.svelte.dev/",
+    "files": [
+      "sapper-logo.svg"
+    ]
+  },
+  {
     "name": "JCB",
     "shortname": "jcb",
     "url": "https://www.jcbusa.com/",
