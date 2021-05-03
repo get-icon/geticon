@@ -4447,6 +4447,15 @@
     ]
   },
   {
+    "name": "Livewire",
+    "shortname": "live-wire",
+    "aliases": ["Livewire", "Laravel-Livewire"],
+    "url": "https://laravel-livewire.com/",
+    "files": [
+      "live-wire.svg"
+    ]
+  },
+  {
     "name": "last.fm",
     "shortname": "lastfm",
     "url": "https://www.last.fm/",
@@ -8239,7 +8248,7 @@
   {
     "name": "Visual Studio Code",
     "shortname": "visual-studio-code",
-    "aliases" ["VS Code", "VSCode"]
+    "aliases" ["VS Code", "VSCode"],
     "url": "https://code.visualstudio.com/",
     "files": [
       "visual-studio-code.svg"
