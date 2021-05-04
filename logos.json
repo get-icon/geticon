@@ -2960,6 +2960,14 @@
   {
     "name": "Gatsby",
     "shortname": "gatsby",
+    "url": "https://www.gatsbyjs.com/",
+    "files": [
+      "gatsby.svg"
+    ]
+  },
+  {
+    "name": "Gatsby",
+    "shortname": "gatsby",
     "url": "https://www.gatsbyjs.org/",
     "files": [
       "gatsby.svg"
