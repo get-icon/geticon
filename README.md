@@ -1,4 +1,4 @@
-# Stack Icons
+# Get Icon
 
 [![License](https://img.shields.io/github/license/get-icon/geticon)](https://github.com/get-icon/geticon/blob/master/LICENSE "License")
 
