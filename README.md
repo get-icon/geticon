@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/github/license/get-icon/geticon)](https://github.com/get-icon/geticon/blob/master/LICENSE "License")
 
-Web / IT project programming language / tool / package / library / technology icon / logo collection and markdown / HTML generator.
+Web / IT project programming language / tool / package / library / technology / stack icon / logo collection and markdown / HTML generator.
 
 It helps you list your stack, which is the set of tools & technologies used by your project or favored by you.
 
