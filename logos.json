@@ -2960,9 +2960,10 @@
   {
     "name": "Gatsby",
     "shortname": "gatsby",
-    "url": "https://www.gatsbyjs.org/",
+    "url": "https://www.gatsbyjs.com/",
     "files": [
-      "gatsby.svg"
+      "gatsby.svg",
+      "gatsby-logo.svg"
     ]
   },
   {
@@ -4025,7 +4026,7 @@
     "shortname": "sapper",
     "url": "https://sapper.svelte.dev/",
     "files": [
-      "sapper-logo.svg"
+      "sapper-icon.svg"
     ]
   },
   {
@@ -4460,7 +4461,8 @@
     "aliases": ["Livewire", "Laravel-Livewire"],
     "url": "https://laravel-livewire.com/",
     "files": [
-      "live-wire.svg"
+      "livewire.svg",
+      "livewire-underwater-jelly.svg"
     ]
   },
   {
@@ -8256,7 +8258,7 @@
   {
     "name": "Visual Studio Code",
     "shortname": "visual-studio-code",
-    "aliases" ["VS Code", "VSCode"],
+    "aliases": ["VS Code", "VSCode"],
     "url": "https://code.visualstudio.com/",
     "files": [
       "visual-studio-code.svg"
