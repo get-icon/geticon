@@ -2962,7 +2962,8 @@
     "shortname": "gatsby",
     "url": "https://www.gatsbyjs.com/",
     "files": [
-      "gatsby.svg"
+      "gatsby.svg",
+      "gatsby-logo.svg"
     ]
   },
   {
@@ -8257,7 +8258,7 @@
   {
     "name": "Visual Studio Code",
     "shortname": "visual-studio-code",
-    "aliases" ["VS Code", "VSCode"],
+    "aliases": ["VS Code", "VSCode"],
     "url": "https://code.visualstudio.com/",
     "files": [
       "visual-studio-code.svg"
