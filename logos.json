@@ -2966,14 +2966,6 @@
     ]
   },
   {
-    "name": "Gatsby",
-    "shortname": "gatsby",
-    "url": "https://www.gatsbyjs.org/",
-    "files": [
-      "gatsby.svg"
-    ]
-  },
-  {
     "name": "Gauge",
     "shortname": "gaugeio",
     "url": "https://getgauge.io/",
