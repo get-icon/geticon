@@ -4,7 +4,7 @@ const rd = isDeno ? Deno.readTextFileSync : fs.readFileSync
 const wt = isDeno ? Deno.writeTextFileSync : fs.writeFileSync
 
 const settingsJson = 'settings.json'
-const logosJson = 'logos.json'
+const iconsJson = 'icons.json'
 const settings = JSON.parse(rd(settingsJson))
 const {
   urlPrefix,
@@ -15,13 +15,13 @@ const {
   separator,
 } = settings
 
-const logos = JSON.parse(rd(logosJson))
-const logoIndex = {}
-for (const logo of logos) {
-  logoIndex[logo.name.toLowerCase()] = logo
-  logoIndex[logo.shortname.toLowerCase()] = logo
-  ;(logo.aliases || []).forEach((alias) => {
-    logoIndex[alias.toLowerCase()] = logo
+const icons = JSON.parse(rd(iconsJson))
+const iconIndex = {}
+for (const icon of icons) {
+  iconIndex[icon.name.toLowerCase()] = icon
+  iconIndex[icon.shortname.toLowerCase()] = icon
+  ;(icon.aliases || []).forEach((alias) => {
+    iconIndex[alias.toLowerCase()] = icon
   })
 }
 
@@ -32,7 +32,7 @@ rd(inputFile, 'utf-8')
   .filter((line) => !/^\s*$/.test(line))
   .forEach((line) => {
     line = line.toLowerCase().trim()
-    const techObj = logoIndex[line]
+    const techObj = iconIndex[line]
     if (!techObj) {
       console.error(`Can't find ${line}, skipped`)
     } else {

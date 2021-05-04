@@ -1,5 +1,5 @@
 {
-  "urlPrefix": "https://github.com/get-icon/geticon/raw/master/logos/",
+  "urlPrefix": "https://github.com/get-icon/geticon/raw/master/icons/",
   "inputFile": "input.txt",
   "outputFile": "output.md",
   "iconSizeInPixel": 21,
