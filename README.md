@@ -69,7 +69,7 @@ Examples:
 to generate **output.md** file from data (one technology name per line, case-insensitive) in **input.txt** with settings in **settings.json**.
 
 <p align="center">
-<img src="https://github.com/get-icon/geticon/raw/master/stack-icons-preview.png" alt="Stack Icons Project social preview image" title="Stack Icons Project social preview image">
+<img src="https://github.com/get-icon/geticon/raw/master/geticon-logo/geticon-preview.png" alt="Get Icon Project social preview image" title="Get Icon Project social preview image">
 </p>
 
 ## Rationale
