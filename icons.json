@@ -48,6 +48,14 @@
     ]
   },
   {
+    "name": "AdonisJS",
+    "shortname": "adonis",
+    "url": "https://adonisjs.com/",
+    "files": [
+      "adonis.svg"
+    ]
+  },
+  {
     "name": "Adyen",
     "shortname": "adyen",
     "url": "https://www.adyen.com/",
