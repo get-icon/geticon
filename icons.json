@@ -8988,7 +8988,7 @@
   {
     "name": "Adobe Acrobat",
     "shortname": "adobe-acrobat",
-    "alias": [
+    "aliases": [
       "Acrobat",
       "Acrobat Reader",
       "Adobe Reader",
@@ -9010,8 +9010,10 @@
   {
     "name": "Adobe After Effects",
     "shortname": "adobe-after-effects",
-    "alias": [
-      "After Effects"
+    "aliases": [
+      "After Effects",
+      "Adobe AfterEffects",
+      "AfterEffects"
     ],
     "url": "https://www.adobe.com/products/aftereffects.html",
     "files": [
@@ -9021,7 +9023,7 @@
   {
     "name": "Adobe Animate",
     "shortname": "adobe-animate",
-    "alias": [
+    "aliases": [
       "Animate"
     ],
     "url": "https://www.adobe.com/products/animate.html",
@@ -9040,7 +9042,7 @@
   {
     "name": "Adobe Behance",
     "shortname": "adobe-behance",
-    "alias": [
+    "aliases": [
       "Behance"
     ],
     "url": "https://www.behance.net/",
@@ -9059,7 +9061,7 @@
   {
     "name": "Adobe Character Animator",
     "shortname": "adobe-character-animator",
-    "alias": [
+    "aliases": [
       "Character Animator"
     ],
     "url": "https://www.adobe.com/products/character-animator.html",
@@ -9070,7 +9072,7 @@
   {
     "name": "Adobe Creative Cloud",
     "shortname": "adobe-creative-cloud",
-    "alias": [
+    "aliases": [
       "Creative Cloud"
     ],
     "url": "https://www.adobe.com/creativecloud.html",
@@ -9089,7 +9091,7 @@
   {
     "name": "Adobe Dreamweaver",
     "shortname": "adobe-dreamweaver",
-    "alias": [
+    "aliases": [
       "Dreamweaver"
     ],
     "url": "https://www.adobe.com/products/dreamweaver.html",
@@ -9100,7 +9102,7 @@
   {
     "name": "Adobe Flash",
     "shortname": "adobe-flash",
-    "alias": [
+    "aliases": [
       "Flash",
       "Adobe Flash Player",
       "Flash Player"
@@ -9121,7 +9123,7 @@
   {
     "name": "Adobe Fresco",
     "shortname": "adobe-fresco",
-    "alias": [
+    "aliases": [
       "Fresco"
     ],
     "url": "https://www.adobe.com/products/fresco.html",
@@ -9132,7 +9134,7 @@
   {
     "name": "Adobe Illustrator",
     "shortname": "adobe-illustrator",
-    "alias": [
+    "aliases": [
       "Illustrator"
     ],
     "url": "https://www.adobe.com/products/illustrator.html",
@@ -9143,7 +9145,7 @@
   {
     "name": "Adobe InCopy",
     "shortname": "adobe-incopy",
-    "alias": [
+    "aliases": [
       "InCopy"
     ],
     "url": "https://www.adobe.com/products/incopy.html",
@@ -9154,7 +9156,7 @@
   {
     "name": "Adobe InDesign",
     "shortname": "adobe-indesign",
-    "alias": [
+    "aliases": [
       "InDesign"
     ],
     "url": "https://www.adobe.com/products/indesign.html",
@@ -9165,7 +9167,7 @@
   {
     "name": "Adobe Lightroom",
     "shortname": "adobe-lightroom",
-    "alias": [
+    "aliases": [
       "Lightroom"
     ],
     "url": "https://www.adobe.com/products/photoshop-lightroom.html",
@@ -9176,7 +9178,7 @@
   {
     "name": "Adobe Lightroom Classic",
     "shortname": "adobe-lightroom-classic",
-    "alias": [
+    "aliases": [
       "Lightroom Classic"
     ],
     "url": "https://www.adobe.com/products/photoshop-lightroom-classic.html",
@@ -9187,7 +9189,7 @@
   {
     "name": "Adobe Media Encoder",
     "shortname": "adobe-media-encoder",
-    "alias": [
+    "aliases": [
       "Media Encoder"
     ],
     "url": "https://www.adobe.com/products/media-encoder.html",
@@ -9198,7 +9200,7 @@
   {
     "name": "Adobe Photoshop",
     "shortname": "adobe-photoshop",
-    "alias": [
+    "aliases": [
       "Photoshop"
     ],
     "url": "https://www.adobe.com/products/photoshop.html",
@@ -9209,7 +9211,7 @@
   {
     "name": "Adobe Photoshop Camera",
     "shortname": "adobe-photoshop-camera",
-    "alias": [
+    "aliases": [
       "Photoshop Camera"
     ],
     "url": "https://www.adobe.com/products/photoshop-camera.html",
@@ -9220,7 +9222,7 @@
   {
     "name": "Adobe Photoshop Express",
     "shortname": "adobe-photoshop-express",
-    "alias": [
+    "aliases": [
       "Photoshop Express"
     ],
     "url": "https://www.adobe.com/products/photoshop-express.html",
@@ -9239,7 +9241,7 @@
   {
     "name": "Adobe Prelude",
     "shortname": "adobe-prelude",
-    "alias": [
+    "aliases": [
       "Prelude"
     ],
     "url": "https://www.adobe.com/products/prelude.html",
@@ -9250,7 +9252,7 @@
   {
     "name": "Adobe Premiere Pro",
     "shortname": "adobe-premiere-pro",
-    "alias": [
+    "aliases": [
       "Premiere Pro",
       "Premiere"
     ],
@@ -9262,7 +9264,7 @@
   {
     "name": "Adobe Premiere Rush",
     "shortname": "adobe-premiere-rush",
-    "alias": [
+    "aliases": [
       "Premiere Rush"
     ],
     "url": "https://www.adobe.com/products/premiere-rush.html",
@@ -9289,7 +9291,7 @@
   {
     "name": "Adobe XD",
     "shortname": "adobe-xd",
-    "alias": [
+    "aliases": [
       "XD"
     ],
     "url": "https://www.adobe.com/products/xd.html",

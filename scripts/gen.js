@@ -37,15 +37,15 @@ const out = data.adobe.map(
   }) => ({
     name,
     shortname,
-    alias: [alias1, alias2, alias3, alias4, alias5, alias6].filter((a) => a),
+    aliases: [alias1, alias2, alias3, alias4, alias5, alias6].filter((a) => a),
     url,
     files: [files],
   }),
 )
 
 out.forEach((v, i) => {
-  if (v.alias.length === 0) {
-    delete out[i].alias
+  if (v.aliases.length === 0) {
+    delete out[i].aliases
   }
 })
 
