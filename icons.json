@@ -1193,7 +1193,9 @@
   {
     "name": "C#",
     "shortname": "c-sharp",
-    "aliases": ["C Sharp"],
+    "aliases": [
+      "C Sharp"
+    ],
     "url": "https://csharp.net/",
     "files": [
       "c-sharp.svg"
@@ -1915,7 +1917,9 @@
   {
     "name": "CSS3",
     "shortname": "css-3",
-    "aliases": ["css"],
+    "aliases": [
+      "css"
+    ],
     "url": "https://www.w3.org/TR/CSS/",
     "files": [
       "css-3.svg",
@@ -2507,7 +2511,9 @@
   {
     "name": "ECMAScript 6",
     "shortname": "es6",
-    "aliases": ["ECMAScript"],
+    "aliases": [
+      "ECMAScript"
+    ],
     "url": "https://tc39.es/ecma262/",
     "files": [
       "es6.svg"
@@ -2598,7 +2604,9 @@
   {
     "name": "Express",
     "shortname": "express",
-    "aliases": ["express.js"],
+    "aliases": [
+      "express.js"
+    ],
     "url": "https://expressjs.com/",
     "files": [
       "express.svg"
@@ -3763,7 +3771,9 @@
   {
     "name": "HTML5",
     "shortname": "html-5",
-    "aliases": ["html"],
+    "aliases": [
+      "html"
+    ],
     "url": "https://www.w3.org/TR/html5/",
     "files": [
       "html-5.svg"
@@ -4023,7 +4033,9 @@
   {
     "name": "JavaScript",
     "shortname": "javascript",
-    "aliases": ["js"],
+    "aliases": [
+      "js"
+    ],
     "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
     "files": [
       "javascript.svg"
@@ -4466,7 +4478,10 @@
   {
     "name": "Livewire",
     "shortname": "live-wire",
-    "aliases": ["Livewire", "Laravel-Livewire"],
+    "aliases": [
+      "Livewire",
+      "Laravel-Livewire"
+    ],
     "url": "https://laravel-livewire.com/",
     "files": [
       "livewire.svg",
@@ -6494,7 +6509,9 @@
   {
     "name": "React",
     "shortname": "react",
-    "aliases": ["React.js"],
+    "aliases": [
+      "React.js"
+    ],
     "url": "https://reactjs.org/",
     "files": [
       "react.svg"
@@ -6527,7 +6544,9 @@
   {
     "name": "ReactiveX (RxJS)",
     "shortname": "reactivex",
-    "aliases": ["RxJS"],
+    "aliases": [
+      "RxJS"
+    ],
     "url": "https://reactivex.io/",
     "files": [
       "reactivex.svg"
@@ -6746,7 +6765,9 @@
   {
     "name": "rollup.js",
     "shortname": "rollupjs",
-    "aliases": ["rollup"],
+    "aliases": [
+      "rollup"
+    ],
     "url": "https://rollupjs.org/",
     "files": [
       "rollup.svg",
@@ -7583,7 +7604,10 @@
   },
   {
     "name": "Subversion",
-    "aliases": ["SVN", "Apache Subversion"],
+    "aliases": [
+      "SVN",
+      "Apache Subversion"
+    ],
     "shortname": "subversion",
     "url": "https://subversion.apache.org/",
     "files": [
@@ -8267,7 +8291,10 @@
   {
     "name": "Visual Studio Code",
     "shortname": "visual-studio-code",
-    "aliases": ["VS Code", "VSCode"],
+    "aliases": [
+      "VS Code",
+      "VSCode"
+    ],
     "url": "https://code.visualstudio.com/",
     "files": [
       "visual-studio-code.svg"
@@ -8839,7 +8866,9 @@
   {
     "name": "Delphi",
     "shortname": "delphi",
-    "aliases": ["Pascal"],
+    "aliases": [
+      "Pascal"
+    ],
     "url": "https://www.embarcadero.com/products/delphi",
     "files": [
       "delphi.svg"
@@ -8848,7 +8877,9 @@
   {
     "name": "Adobe Photoshop",
     "shortname": "adobe-photoshop",
-    "aliases": ["Photoshop"],
+    "aliases": [
+      "Photoshop"
+    ],
     "url": "https://www.adobe.com/products/photoshop.html",
     "files": [
       "adobe-photoshop.svg"
@@ -8857,7 +8888,10 @@
   {
     "name": "Adobe Illustrator",
     "shortname": "adobe-illustrator",
-    "aliases": ["illustrator", "ai"],
+    "aliases": [
+      "illustrator",
+      "ai"
+    ],
     "url": "https://www.adobe.com/products/illustrator.html",
     "files": [
       "adobe-illustrator.svg"
@@ -8874,7 +8908,9 @@
   {
     "name": "GSAP",
     "shortname": "gsap",
-    "aliases": ["GreenSock"],
+    "aliases": [
+      "GreenSock"
+    ],
     "url": "https://greensock.com/gsap/",
     "files": [
       "gsap.svg"
@@ -8925,7 +8961,9 @@
   {
     "name": "Vite",
     "shortname": "vite",
-    "aliases": ["Vite.js"],
+    "aliases": [
+      "Vite.js"
+    ],
     "url": "https://vitejs.dev/",
     "files": [
       "vite.svg"
@@ -8938,6 +8976,17 @@
     "files": [
       "workbox-icon.svg",
       "workbox.svg"
+    ]
+  },
+  {
+    "name": "three.js",
+    "shortname": "threejs",
+    "aliases": [
+      "three"
+    ],
+    "url": "https://threejs.org/",
+    "files": [
+      "threejs.svg"
     ]
   }
 ]
