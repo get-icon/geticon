@@ -3,5 +3,13 @@ module.exports = {
   singleQuote: true,
   trailingComma: 'all',
   arrowParens: 'always',
-  printWidth: 0,
+  printWidth: 80,
+  overrides: [
+    {
+      files: ['icons.json'],
+      options: {
+        printWidth: 0,
+      },
+    },
+  ],
 }

@@ -84,10 +84,9 @@ Some are collected by Tom Chen:
 
 <details><summary>List</summary>
 
+* Adobe product icons
 * fontforge
 * delphi
-* adobe-photoshop
-* adobe-illustrator
 * assembly
 * nsis
 * r

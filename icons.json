@@ -8978,9 +8978,227 @@
     ]
   },
   {
+    "name": "Adobe",
+    "shortname": "adobe",
+    "url": "https://www.adobe.com/",
+    "files": [
+      "adobe.svg"
+    ]
+  },
+  {
+    "name": "Adobe Acrobat",
+    "shortname": "adobe-acrobat",
+    "alias": [
+      "Acrobat",
+      "Acrobat Reader",
+      "Adobe Reader",
+      "Acrobat Reader DC"
+    ],
+    "url": "https://get.adobe.com/reader/",
+    "files": [
+      "adobe-acrobat.svg"
+    ]
+  },
+  {
+    "name": "Adobe Aero",
+    "shortname": "adobe-aero",
+    "url": "https://www.adobe.com/products/aero.html",
+    "files": [
+      "adobe-aero.svg"
+    ]
+  },
+  {
+    "name": "Adobe After Effects",
+    "shortname": "adobe-after-effects",
+    "alias": [
+      "After Effects"
+    ],
+    "url": "https://www.adobe.com/products/aftereffects.html",
+    "files": [
+      "adobe-after_effects.svg"
+    ]
+  },
+  {
+    "name": "Adobe Animate",
+    "shortname": "adobe-animate",
+    "alias": [
+      "Animate"
+    ],
+    "url": "https://www.adobe.com/products/animate.html",
+    "files": [
+      "adobe-animate.svg"
+    ]
+  },
+  {
+    "name": "Adobe Audition",
+    "shortname": "adobe-audition",
+    "url": "https://www.adobe.com/products/audition.html",
+    "files": [
+      "adobe-audition.svg"
+    ]
+  },
+  {
+    "name": "Adobe Behance",
+    "shortname": "adobe-behance",
+    "alias": [
+      "Behance"
+    ],
+    "url": "https://www.behance.net/",
+    "files": [
+      "adobe-behance.svg"
+    ]
+  },
+  {
+    "name": "Adobe Bridge",
+    "shortname": "adobe-bridge",
+    "url": "https://www.adobe.com/products/bridge.html",
+    "files": [
+      "adobe-bridge.svg"
+    ]
+  },
+  {
+    "name": "Adobe Character Animator",
+    "shortname": "adobe-character-animator",
+    "alias": [
+      "Character Animator"
+    ],
+    "url": "https://www.adobe.com/products/character-animator.html",
+    "files": [
+      "adobe-character_animator.svg"
+    ]
+  },
+  {
+    "name": "Adobe Creative Cloud",
+    "shortname": "adobe-creative-cloud",
+    "alias": [
+      "Creative Cloud"
+    ],
+    "url": "https://www.adobe.com/creativecloud.html",
+    "files": [
+      "adobe-creative_cloud.svg"
+    ]
+  },
+  {
+    "name": "Adobe Dimension",
+    "shortname": "adobe-dimension",
+    "url": "https://www.adobe.com/products/dimension.html",
+    "files": [
+      "adobe-dimension.svg"
+    ]
+  },
+  {
+    "name": "Adobe Dreamweaver",
+    "shortname": "adobe-dreamweaver",
+    "alias": [
+      "Dreamweaver"
+    ],
+    "url": "https://www.adobe.com/products/dreamweaver.html",
+    "files": [
+      "adobe-dreamweaver.svg"
+    ]
+  },
+  {
+    "name": "Adobe Flash",
+    "shortname": "adobe-flash",
+    "alias": [
+      "Flash",
+      "Adobe Flash Player",
+      "Flash Player"
+    ],
+    "url": "https://www.adobe.com/products/flashplayer/",
+    "files": [
+      "adobe-flash.svg"
+    ]
+  },
+  {
+    "name": "Adobe Fonts",
+    "shortname": "adobe-fonts",
+    "url": "https://fonts.adobe.com/",
+    "files": [
+      "adobe-fonts.svg"
+    ]
+  },
+  {
+    "name": "Adobe Fresco",
+    "shortname": "adobe-fresco",
+    "alias": [
+      "Fresco"
+    ],
+    "url": "https://www.adobe.com/products/fresco.html",
+    "files": [
+      "adobe-fresco.svg"
+    ]
+  },
+  {
+    "name": "Adobe Illustrator",
+    "shortname": "adobe-illustrator",
+    "alias": [
+      "Illustrator"
+    ],
+    "url": "https://www.adobe.com/products/illustrator.html",
+    "files": [
+      "adobe-illustrator.svg"
+    ]
+  },
+  {
+    "name": "Adobe InCopy",
+    "shortname": "adobe-incopy",
+    "alias": [
+      "InCopy"
+    ],
+    "url": "https://www.adobe.com/products/incopy.html",
+    "files": [
+      "adobe-incopy.svg"
+    ]
+  },
+  {
+    "name": "Adobe InDesign",
+    "shortname": "adobe-indesign",
+    "alias": [
+      "InDesign"
+    ],
+    "url": "https://www.adobe.com/products/indesign.html",
+    "files": [
+      "adobe-indesign.svg"
+    ]
+  },
+  {
+    "name": "Adobe Lightroom",
+    "shortname": "adobe-lightroom",
+    "alias": [
+      "Lightroom"
+    ],
+    "url": "https://www.adobe.com/products/photoshop-lightroom.html",
+    "files": [
+      "adobe-lightroom.svg"
+    ]
+  },
+  {
+    "name": "Adobe Lightroom Classic",
+    "shortname": "adobe-lightroom-classic",
+    "alias": [
+      "Lightroom Classic"
+    ],
+    "url": "https://www.adobe.com/products/photoshop-lightroom-classic.html",
+    "files": [
+      "adobe-lightroom_classic.svg"
+    ]
+  },
+  {
+    "name": "Adobe Media Encoder",
+    "shortname": "adobe-media-encoder",
+    "alias": [
+      "Media Encoder"
+    ],
+    "url": "https://www.adobe.com/products/media-encoder.html",
+    "files": [
+      "adobe-media_encoder.svg"
+    ]
+  },
+  {
     "name": "Adobe Photoshop",
     "shortname": "adobe-photoshop",
-    "aliases": [
+    "alias": [
       "Photoshop"
     ],
     "url": "https://www.adobe.com/products/photoshop.html",
@@ -8989,15 +9207,94 @@
     ]
   },
   {
-    "name": "Adobe Illustrator",
-    "shortname": "adobe-illustrator",
-    "aliases": [
-      "illustrator",
-      "ai"
+    "name": "Adobe Photoshop Camera",
+    "shortname": "adobe-photoshop-camera",
+    "alias": [
+      "Photoshop Camera"
     ],
-    "url": "https://www.adobe.com/products/illustrator.html",
+    "url": "https://www.adobe.com/products/photoshop-camera.html",
     "files": [
-      "adobe-illustrator.svg"
+      "adobe-photoshop_camera.svg"
+    ]
+  },
+  {
+    "name": "Adobe Photoshop Express",
+    "shortname": "adobe-photoshop-express",
+    "alias": [
+      "Photoshop Express"
+    ],
+    "url": "https://www.adobe.com/products/photoshop-express.html",
+    "files": [
+      "adobe-photoshop_express.svg"
+    ]
+  },
+  {
+    "name": "Adobe Portfolio",
+    "shortname": "adobe-portfolio",
+    "url": "https://portfolio.adobe.com/",
+    "files": [
+      "adobe-portfolio.svg"
+    ]
+  },
+  {
+    "name": "Adobe Prelude",
+    "shortname": "adobe-prelude",
+    "alias": [
+      "Prelude"
+    ],
+    "url": "https://www.adobe.com/products/prelude.html",
+    "files": [
+      "adobe-prelude.svg"
+    ]
+  },
+  {
+    "name": "Adobe Premiere Pro",
+    "shortname": "adobe-premiere-pro",
+    "alias": [
+      "Premiere Pro",
+      "Premiere"
+    ],
+    "url": "https://www.adobe.com/products/premiere.html",
+    "files": [
+      "adobe-premiere_pro.svg"
+    ]
+  },
+  {
+    "name": "Adobe Premiere Rush",
+    "shortname": "adobe-premiere-rush",
+    "alias": [
+      "Premiere Rush"
+    ],
+    "url": "https://www.adobe.com/products/premiere-rush.html",
+    "files": [
+      "adobe-premiere_rush.svg"
+    ]
+  },
+  {
+    "name": "Adobe Spark",
+    "shortname": "adobe-spark",
+    "url": "https://www.adobe.com/express/",
+    "files": [
+      "adobe-spark.svg"
+    ]
+  },
+  {
+    "name": "Adobe Stock",
+    "shortname": "adobe-stock",
+    "url": "https://stock.adobe.com/",
+    "files": [
+      "adobe-stock.svg"
+    ]
+  },
+  {
+    "name": "Adobe XD",
+    "shortname": "adobe-xd",
+    "alias": [
+      "XD"
+    ],
+    "url": "https://www.adobe.com/products/xd.html",
+    "files": [
+      "adobe-xd.svg"
     ]
   },
   {
