@@ -103,6 +103,8 @@ Some are collected by Tom Chen:
 * hugo-icon
 * etc.
 
+I kind of lost count here. Also, some may exist in the **icons** folder but may not be listed in **icons.json**. I'll fix these when I perform the [planned big change](https://github.com/get-icon/geticon/issues/6).
+
 </details>
 
 ## To do
