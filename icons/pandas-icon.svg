@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256" height="256" version="1.1" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style>.cls-1{fill:#130754;}.cls-2{fill:#ffca00;}.cls-3{fill:#e70488;}</style>
+ </defs>
+  <rect class="cls-1" x="92.466" y="15.133" width="27.978" height="58.092"/>
+  <rect class="cls-1" x="92.466" y="134.46" width="27.978" height="58.092"/>
+  <rect class="cls-2" x="92.466" y="90.181" width="27.978" height="27.409"/>
+  <rect class="cls-1" x="47.534" y="62.901" width="27.978" height="193.1"/>
+  <rect class="cls-1" x="136.48" y="182.39" width="27.978" height="58.092"/>
+  <rect class="cls-1" x="136.48" y="62.97" width="27.978" height="58.092"/>
+  <rect class="cls-3" x="136.48" y="138.02" width="27.978" height="27.409"/>
+  <rect class="cls-1" x="180.49" y="-3.3145e-6" width="27.978" height="193.1"/>
+</svg>

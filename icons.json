@@ -7583,6 +7583,7 @@
   },
   {
     "name": "Subversion",
+    "aliases": ["SVN", "Apache Subversion"],
     "shortname": "subversion",
     "url": "https://subversion.apache.org/",
     "files": [
@@ -8868,6 +8869,75 @@
     "url": "https://nsis.sourceforge.io/",
     "files": [
       "nsis.svg"
+    ]
+  },
+  {
+    "name": "GSAP",
+    "shortname": "gsap",
+    "aliases": ["GreenSock"],
+    "url": "https://greensock.com/gsap/",
+    "files": [
+      "gsap.svg"
+    ]
+  },
+  {
+    "name": "Inkscape",
+    "shortname": "inkscape",
+    "url": "https://inkscape.org/",
+    "files": [
+      "inkscape.svg"
+    ]
+  },
+  {
+    "name": "NumPY",
+    "shortname": "numpy",
+    "url": "https://numpy.org/",
+    "files": [
+      "numpy-icon.svg",
+      "numpy-logo.svg"
+    ]
+  },
+  {
+    "name": "pandas",
+    "shortname": "pandas",
+    "url": "https://pandas.pydata.org/",
+    "files": [
+      "pandas-icon.svg",
+      "pandas-logo.svg"
+    ]
+  },
+  {
+    "name": "Snowpack",
+    "shortname": "snowpack",
+    "url": "https://www.snowpack.dev/",
+    "files": [
+      "snowpack.svg"
+    ]
+  },
+  {
+    "name": "Sublime Text",
+    "shortname": "sublime-text",
+    "url": "https://www.sublimetext.com/",
+    "files": [
+      "sublime-text.svg"
+    ]
+  },
+  {
+    "name": "Vite",
+    "shortname": "vite",
+    "aliases": ["Vite.js"],
+    "url": "https://vitejs.dev/",
+    "files": [
+      "vite.svg"
+    ]
+  },
+  {
+    "name": "Workbox",
+    "shortname": "workbox",
+    "url": "https://developers.google.com/web/tools/workbox",
+    "files": [
+      "workbox-icon.svg",
+      "workbox.svg"
     ]
   }
 ]

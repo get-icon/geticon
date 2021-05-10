@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256" height="256" version="1.1" viewBox="0 0 256 256" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><metadata><rdf:RDF><cc:Work rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/><dc:title/></cc:Work></rdf:RDF></metadata>
+<style type="text/css">
+	.st0{fill:#616161;}
+	.st1{fill:#F57C00;}
+</style>
+<polygon class="st0" transform="matrix(1.4781 0 0 1.4781 -1.4781 17.146)" points="24.6 23.7 23.6 105 17.1 103 16.6 27.5 1 35 1 115 72.7 149.5 72.7 0.5 51.9 10.5 51.1 113 43.2 110.6 42.8 15"/><path class="st1" d="m119.28 22.023v98.734l136.72 2.3649v-58.975zm30.596 48.776 83.806 16.111v9.4596l-83.806-10.346z" stroke-width="1.4781"/><path class="st1" d="m119.28 135.24v98.882l136.72-42.273v-58.975zm30.596 33.995 83.806-9.7552v9.4596l-83.806 15.52z" stroke-width="1.4781"/>
+</svg>
