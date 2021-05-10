@@ -283,8 +283,13 @@
   },
   {
     "name": "Apollo",
-    "shortname": "apollostack",
-    "url": "https://www.apollostack.com/",
+    "shortname": "apollo",
+    "aliases": [
+      "Apollo GraphQL",
+      "apollostack",
+      "Apollo Stack"
+    ],
+    "url": "https://www.apollographql.com/",
     "files": [
       "apollostack.svg"
     ]
@@ -1260,6 +1265,9 @@
   {
     "name": "Bulma",
     "shortname": "bulma",
+    "aliases": [
+      "Bulma CSS"
+    ],
     "url": "https://bulma.io/",
     "files": [
       "bulma.svg"
@@ -1268,8 +1276,13 @@
   {
     "name": "Bēhance",
     "shortname": "behance",
+    "aliases": [
+      "Behance",
+      "Adobe Behance"
+    ],
     "url": "https://www.behance.net/",
     "files": [
+      "behance-icon.svg",
       "behance.svg"
     ]
   },
@@ -1569,7 +1582,7 @@
     ]
   },
   {
-    "name": "CloudFlare",
+    "name": "Cloudflare",
     "shortname": "cloudflare",
     "url": "https://www.cloudflare.com/",
     "files": [
@@ -2465,6 +2478,9 @@
   {
     "name": "Elasticsearch",
     "shortname": "elasticsearch",
+    "aliases": [
+      "Elastic Search"
+    ],
     "url": "https://www.elastic.co/products/elasticsearch",
     "files": [
       "elasticsearch.svg"
@@ -4320,6 +4336,9 @@
   {
     "name": "Kafka",
     "shortname": "kafka",
+    "aliases": [
+      "Apache Kafka"
+    ],
     "url": "https://kafka.apache.org/",
     "files": [
       "kafka-icon.svg",
@@ -5516,7 +5535,7 @@
     ]
   },
   {
-    "name": "NGINX",
+    "name": "Nginx",
     "shortname": "nginx",
     "url": "https://www.nginx.com/",
     "files": [
@@ -5640,6 +5659,9 @@
   {
     "name": "Nuxt",
     "shortname": "nuxt",
+    "aliases": [
+      "Nuxt.js"
+    ],
     "url": "https://nuxtjs.org/",
     "files": [
       "nuxt-icon.svg",
@@ -9040,17 +9062,6 @@
     ]
   },
   {
-    "name": "Adobe Behance",
-    "shortname": "adobe-behance",
-    "aliases": [
-      "Behance"
-    ],
-    "url": "https://www.behance.net/",
-    "files": [
-      "adobe-behance.svg"
-    ]
-  },
-  {
     "name": "Adobe Bridge",
     "shortname": "adobe-bridge",
     "url": "https://www.adobe.com/products/bridge.html",
@@ -9406,6 +9417,39 @@
     "url": "https://www.swoole.co.uk/",
     "files": [
       "swoole.svg"
+    ]
+  },
+  {
+    "name": "Enzyme",
+    "shortname": "enzyme",
+    "url": "https://github.com/enzymejs/enzyme",
+    "files": [
+      "enzyme.svg"
+    ]
+  },
+  {
+    "name": "Chakra UI",
+    "shortname": "chakra",
+    "aliases": [
+      "Chakra",
+      "Chakra CSS"
+    ],
+    "url": "https://chakra-ui.com/",
+    "files": [
+      "chakra-icon.svg",
+      "chakra-logo.svg"
+    ]
+  },
+  {
+    "name": "OpenID",
+    "shortname": "openid",
+    "aliases": [
+      "Open ID"
+    ],
+    "url": "https://openid.net/",
+    "files": [
+      "openid-icon.svg",
+      "openid-logo.svg"
     ]
   }
 ]
