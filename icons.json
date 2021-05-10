@@ -4618,9 +4618,13 @@
     ]
   },
   {
-    "name": "Linux Tux",
+    "name": "Linux",
     "shortname": "linux-tux",
-    "url": "https://en.wikipedia.org/wiki/Tux_(mascot)",
+    "aliases": [
+      "Tux",
+      "Linux Tux"
+    ],
+    "url": "https://www.linuxfoundation.org/",
     "files": [
       "linux-tux.svg"
     ]
@@ -8987,6 +8991,23 @@
     "url": "https://threejs.org/",
     "files": [
       "threejs.svg"
+    ]
+  },
+  {
+    "name": "FFmpeg",
+    "shortname": "ffmpeg",
+    "url": "https://www.ffmpeg.org/",
+    "files": [
+      "ffmpeg-icon.svg",
+      "ffmpeg-logo.svg"
+    ]
+  },
+  {
+    "name": "Swoole",
+    "shortname": "swoole",
+    "url": "https://www.swoole.co.uk/",
+    "files": [
+      "swoole.svg"
     ]
   }
 ]
