@@ -565,6 +565,9 @@
   {
     "name": "AWS",
     "shortname": "aws",
+    "aliases": [
+      "Amazon Web Services"
+    ],
     "url": "https://aws.amazon.com/",
     "files": [
       "aws.svg"
@@ -573,6 +576,9 @@
   {
     "name": "AWS API Gateway",
     "shortname": "aws-api-gateway",
+    "aliases": [
+      "API Gateway"
+    ],
     "url": "https://aws.amazon.com/api-gateway/",
     "files": [
       "aws-api-gateway.svg"
@@ -581,6 +587,9 @@
   {
     "name": "AWS CloudFormation",
     "shortname": "aws-cloudformation",
+    "aliases": [
+      "CloudFormation"
+    ],
     "url": "https://aws.amazon.com/cloudformation/",
     "files": [
       "aws-cloudformation.svg"
@@ -589,6 +598,9 @@
   {
     "name": "AWS CloudFront",
     "shortname": "aws-cloudfront",
+    "aliases": [
+      "CloudFront"
+    ],
     "url": "https://aws.amazon.com/cloudfront/",
     "files": [
       "aws-cloudfront.svg"
@@ -597,6 +609,9 @@
   {
     "name": "AWS CloudSearch",
     "shortname": "aws-cloudsearch",
+    "aliases": [
+      "CloudSearch"
+    ],
     "url": "https://aws.amazon.com/cloudsearch/",
     "files": [
       "aws-cloudsearch.svg"
@@ -605,6 +620,9 @@
   {
     "name": "AWS CloudWatch",
     "shortname": "aws-cloudwatch",
+    "aliases": [
+      "CloudWatch"
+    ],
     "url": "https://aws.amazon.com/cloudwatch/",
     "files": [
       "aws-cloudwatch.svg"
@@ -613,6 +631,9 @@
   {
     "name": "AWS CodeDeploy",
     "shortname": "aws-codedeploy",
+    "aliases": [
+      "CodeDeploy"
+    ],
     "url": "https://aws.amazon.com/codedeploy/",
     "files": [
       "aws-codedeploy.svg"
@@ -621,6 +642,9 @@
   {
     "name": "AWS Cognito",
     "shortname": "aws-cognito",
+    "aliases": [
+      "Cognito"
+    ],
     "url": "https://aws.amazon.com/cognito/",
     "files": [
       "aws-cognito.svg"
@@ -629,14 +653,22 @@
   {
     "name": "AWS DynamoDB",
     "shortname": "aws-dynamodb",
+    "aliases": [
+      "DynamoDB"
+    ],
     "url": "https://aws.amazon.com/dynamodb/",
     "files": [
       "aws-dynamodb.svg"
     ]
   },
   {
-    "name": "AWS EC2 (Elastic Compute Cloud)",
+    "name": "AWS EC2",
     "shortname": "aws-ec2",
+    "aliases": [
+      "AWS EC2 (Elastic Compute Cloud)",
+      "EC2",
+      "Elastic Compute Cloud"
+    ],
     "url": "https://aws.amazon.com/ec2/",
     "files": [
       "aws-ec2.svg"
@@ -645,6 +677,9 @@
   {
     "name": "AWS Elastic Cache",
     "shortname": "aws-elastic-cache",
+    "aliases": [
+      "Elastic Cache"
+    ],
     "url": "https://aws.amazon.com/elasticache/",
     "files": [
       "aws-elastic-cache.svg"
@@ -653,14 +688,22 @@
   {
     "name": "AWS Glacier",
     "shortname": "aws-glacier",
+    "aliases": [
+      "Glacier"
+    ],
     "url": "https://aws.amazon.com/glacier/",
     "files": [
       "aws-glacier.svg"
     ]
   },
   {
-    "name": "AWS IAM (Identity and Access Management)",
+    "name": "AWS IAM",
     "shortname": "aws-iam",
+    "aliases": [
+      "AWS IAM (Identity and Access Management)",
+      "IAM",
+      "Identity and Access Management"
+    ],
     "url": "https://aws.amazon.com/iam/",
     "files": [
       "aws-iam.svg"
@@ -669,6 +712,9 @@
   {
     "name": "AWS Kinesis",
     "shortname": "aws-kinesis",
+    "aliases": [
+      "Kinesis"
+    ],
     "url": "https://aws.amazon.com/kinesis/",
     "files": [
       "aws-kinesis.svg"
@@ -677,6 +723,9 @@
   {
     "name": "AWS Lambda",
     "shortname": "aws-lambda",
+    "aliases": [
+      "Lambda"
+    ],
     "url": "https://aws.amazon.com/lambda/",
     "files": [
       "aws-lambda.svg"
@@ -685,6 +734,9 @@
   {
     "name": "AWS Mobile Hub",
     "shortname": "aws-mobilehub",
+    "aliases": [
+      "Mobile Hub"
+    ],
     "url": "https://aws.amazon.com/mobile/",
     "files": [
       "aws-mobilehub.svg"
@@ -693,6 +745,9 @@
   {
     "name": "AWS Opworks",
     "shortname": "aws-opsworks",
+    "aliases": [
+      "Opworks"
+    ],
     "url": "https://aws.amazon.com/opsworks/",
     "files": [
       "aws-opsworks.svg"
@@ -701,14 +756,22 @@
   {
     "name": "AWS QuickSight",
     "shortname": "aws-quicksight",
+    "aliases": [
+      "QuickSight"
+    ],
     "url": "https://quicksight.aws/",
     "files": [
       "aws-quicksight.svg"
     ]
   },
   {
-    "name": "AWS RDS (Relational Database Service)",
+    "name": "AWS RDS",
     "shortname": "aws-rds",
+    "aliases": [
+      "AWS RDS (Relational Database Service)",
+      "RDS",
+      "Relational Database Service"
+    ],
     "url": "https://aws.amazon.com/rds/",
     "files": [
       "aws-rds.svg"
@@ -717,46 +780,74 @@
   {
     "name": "AWS Route 53",
     "shortname": "aws-route53",
+    "aliases": [
+      "Route 53"
+    ],
     "url": "https://aws.amazon.com/route53/",
     "files": [
       "aws-route53.svg"
     ]
   },
   {
-    "name": "AWS S3 (Simple Storage Service)",
+    "name": "AWS S3",
     "shortname": "aws-s3",
     "url": "https://aws.amazon.com/s3/",
+    "aliases": [
+      "AWS S3 (Simple Storage Service)",
+      "S3",
+      "Simple Storage Service"
+    ],
     "files": [
       "aws-s3.svg"
     ]
   },
   {
-    "name": "AWS SES (Simple Email Service)",
+    "name": "AWS SES",
     "shortname": "aws-ses",
+    "aliases": [
+      "AWS SES (Simple Email Service)",
+      "SES",
+      "Simple Email Service"
+    ],
     "url": "https://aws.amazon.com/ses/",
     "files": [
       "aws-ses.svg"
     ]
   },
   {
-    "name": "AWS SNS (Simple Notification Service)",
+    "name": "AWS SNS",
     "shortname": "aws-sns",
+    "aliases": [
+      "AWS SNS (Simple Notification Service)",
+      "SNS",
+      "Simple Notification Service"
+    ],
     "url": "https://aws.amazon.com/sns/",
     "files": [
       "aws-sns.svg"
     ]
   },
   {
-    "name": "AWS SQS (Simple Queue Service)",
+    "name": "AWS SQS",
     "shortname": "aws-sqs",
+    "aliases": [
+      "AWS SQS (Simple Queue Service)",
+      "SQS",
+      "Simple Queue Service"
+    ],
     "url": "https://aws.amazon.com/sqs/",
     "files": [
       "aws-sqs.svg"
     ]
   },
   {
-    "name": "AWS WAF (Web Application Firewall)",
+    "name": "AWS WAF",
     "shortname": "aws-waf",
+    "aliases": [
+      "AWS WAF (Web Application Firewall)",
+      "WAF",
+      "Web Application Firewall"
+    ],
     "url": "https://aws.amazon.com/waf/",
     "files": [
       "aws-waf.svg"
@@ -6546,12 +6637,20 @@
     ]
   },
   {
-    "name": "ReactiveX (RxJS)",
+    "name": "ReactiveX",
     "shortname": "reactivex",
-    "aliases": [
-      "RxJS"
-    ],
     "url": "https://reactivex.io/",
+    "files": [
+      "reactivex.svg"
+    ]
+  },
+  {
+    "name": "RxJS",
+    "shortname": "rxjs",
+    "aliases": [
+      "ReactiveX (RxJS)"
+    ],
+    "url": "https://rxjs.dev/",
     "files": [
       "reactivex.svg"
     ]
