@@ -9451,5 +9451,17 @@
       "openid-icon.svg",
       "openid-logo.svg"
     ]
+  },
+  {
+    "name": "PhantomJS",
+    "shortname": "phantomj",
+    "aliases": [
+      "Phantom.js",
+      "Phantom"
+    ],
+    "url": "https://phantomjs.org/",
+    "files": [
+      "phantomjs.svg"
+    ]
   }
 ]
