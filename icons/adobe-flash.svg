@@ -1,14 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 25.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-	 viewBox="0 0 499.9 487.4" style="enable-background:new 0 0 499.9 487.4;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#4A0000;}
-	.st1{fill:#FFFFFF;}
-</style>
-<g>
-	<rect class="st0" width="499.9" height="487.4"/>
-	<path class="st1" d="M269.2,138.7c-22.5,27.5-35.8,61.8-48.7,95c-26.1,67.3-43.6,105.8-99.7,105.8V402c46.4,0,84.1-17.2,112-51.2
-		c17.9-21.9,30.3-49.3,40.9-75.8h74.1v-62.5h-48.8c18.9-40.6,39.2-62.5,82.1-62.5V87.5C334.8,87.5,297.1,104.7,269.2,138.7"/>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 499.9 487.4">
+  <path d="M0 0h499.9v487.4H0z" style="fill:#4a0000"/>
+  <path d="M269.2 138.7c-22.5 27.5-35.8 61.8-48.7 95-26.1 67.3-43.6 105.8-99.7 105.8V402c46.4 0 84.1-17.2 112-51.2 17.9-21.9 30.3-49.3 40.9-75.8h74.1v-62.5H299c18.9-40.6 39.2-62.5 82.1-62.5V87.5c-46.3 0-84 17.2-111.9 51.2" style="fill:#fff"/>
 </svg>

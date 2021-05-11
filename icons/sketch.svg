@@ -1,14 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="256px" height="232px" viewBox="0 0 256 232" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
-	<g>
-		<polygon fill="#FDB300" points="127.9998 0.0002 55.8548 7.6282 -0.0002 82.6072 127.9998 231.6622 255.9998 82.6072 200.1458 7.6282"></polygon>
-		<polygon fill="#EB6C00" points="0 82.6076 128 231.6616 51.846 82.6076"></polygon>
-		<polygon fill="#EB6C00" points="204.1533 82.6076 128.0003 231.6616 255.9993 82.6076"></polygon>
-		<polygon fill="#FDAD00" points="51.8463 82.6076 128.0003 231.6616 204.1543 82.6076"></polygon>
-		<polygon fill="#FDD231" points="55.8548 7.6282 51.8458 82.6072 127.9998 0.0002"></polygon>
-		<polygon fill="#FDD231" points="204.1533 82.6076 200.1453 7.6276 128.0003 0.0006"></polygon>
-		<polygon fill="#FDAD00" points="204.1542 82.6076 255.9992 82.6076 200.1452 7.6276"></polygon>
-		<polygon fill="#FDAD00" points="0 82.6076 51.846 82.6076 55.855 7.6276"></polygon>
-		<polygon fill="#FEEEB7" points="127.9998 0.0002 51.8458 82.6072 204.1538 82.6072"></polygon>
-	</g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 231.662">
+  <path fill="#fdb300" d="m0 82.607 128 149.055L256 82.607 200.146 7.628 128 0 55.855 7.628z"/>
+  <path fill="#eb6c00" d="M51.846 82.607H0l128 149.054zM256 82.607h-51.846L128 231.661z"/>
+  <path fill="#fdad00" d="M204.155 82.607H51.846l76.155 149.054z"/>
+  <path fill="#fdd231" d="M128 0 55.855 7.628l-4.009 74.979zM128 0l76.154 82.607-4.008-74.98z"/>
+  <path fill="#fdad00" d="m200.145 7.627 4.01 74.98h51.844zM55.855 7.627 0 82.607h51.846z"/>
+  <path fill="#feeeb7" d="M204.154 82.607 128 0 51.846 82.607z"/>
 </svg>

@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="256" height="256" version="1.1" viewBox="0 0 256 256" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><metadata><rdf:RDF><cc:Work rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/><dc:title/></cc:Work></rdf:RDF></metadata>
-<style type="text/css">
-	.st0{fill:#616161;}
-	.st1{fill:#F57C00;}
-</style>
-<polygon class="st0" transform="matrix(1.4781 0 0 1.4781 -1.4781 17.146)" points="24.6 23.7 23.6 105 17.1 103 16.6 27.5 1 35 1 115 72.7 149.5 72.7 0.5 51.9 10.5 51.1 113 43.2 110.6 42.8 15"/><path class="st1" d="m119.28 22.023v98.734l136.72 2.3649v-58.975zm30.596 48.776 83.806 16.111v9.4596l-83.806-10.346z" stroke-width="1.4781"/><path class="st1" d="m119.28 135.24v98.882l136.72-42.273v-58.975zm30.596 33.995 83.806-9.7552v9.4596l-83.806 15.52z" stroke-width="1.4781"/>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 256 220.237">
+  <style>
+    .st1{fill:#f57c00}
+  </style>
+  <path d="m17.1 103-.5-75.5L1 35v80l71.7 34.5V.5l-20.8 10-.8 102.5-7.9-2.4-.4-95.6-18.2 8.7-1 81.3z" style="fill:#616161" transform="translate(-1.478 -.739) scale(1.4781)"/>
+  <path stroke-width="1.478" d="M119.28 4.138v98.734L256 105.237V46.262zm30.596 48.776 83.806 16.11v9.46L149.876 68.14zM119.28 117.355v98.882L256 173.964v-58.975zm30.596 33.995 83.806-9.755v9.46l-83.806 15.52z" class="st1"/>
 </svg>

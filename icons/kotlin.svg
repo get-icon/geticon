@@ -1,31 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
-    <defs>
-        <linearGradient x1="26.599%" y1="146.559136%" x2="73.8446667%" y2="52.3813953%" id="linearGradient-1">
-            <stop stop-color="#0095D5" offset="9.677%"></stop>
-            <stop stop-color="#238AD9" offset="30.07%"></stop>
-            <stop stop-color="#557BDE" offset="62.11%"></stop>
-            <stop stop-color="#7472E2" offset="86.43%"></stop>
-            <stop stop-color="#806EE3" offset="100%"></stop>
-        </linearGradient>
-        <linearGradient x1="13.9840532%" y1="37.1049231%" x2="68.682392%" y2="-13.5538462%" id="linearGradient-2">
-            <stop stop-color="#0095D5" offset="11.83%"></stop>
-            <stop stop-color="#3C83DC" offset="41.78%"></stop>
-            <stop stop-color="#6D74E1" offset="69.62%"></stop>
-            <stop stop-color="#806EE3" offset="83.33%"></stop>
-        </linearGradient>
-        <linearGradient x1="-16.8361667%" y1="91.9396667%" x2="76.2191667%" y2="-1.11566667%" id="linearGradient-3">
-            <stop stop-color="#C757BC" offset="10.75%"></stop>
-            <stop stop-color="#D0609A" offset="21.38%"></stop>
-            <stop stop-color="#E1725C" offset="42.54%"></stop>
-            <stop stop-color="#EE7E2F" offset="60.48%"></stop>
-            <stop stop-color="#F58613" offset="74.3%"></stop>
-            <stop stop-color="#F88909" offset="82.32%"></stop>
-        </linearGradient>
-    </defs>
-    <g>
-				<polygon fill="url(#linearGradient-1)" points="0 256 128.426667 127.573333 256 256"></polygon>
-				<polygon fill="url(#linearGradient-2)" points="0 0 128.426667 0 0 138.666667"></polygon>
-				<polygon fill="url(#linearGradient-3)" points="128.426667 0 0 135.253333 0 256 128.426667 127.573333 256 0"></polygon>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="a" x1="48.23" x2="133.896" y1="445.858" y2="275.094" gradientTransform="scale(1.41186 .70828)" gradientUnits="userSpaceOnUse">
+      <stop offset="9.677%" stop-color="#0095D5"/>
+      <stop offset="30.07%" stop-color="#238AD9"/>
+      <stop offset="62.11%" stop-color="#557BDE"/>
+      <stop offset="86.43%" stop-color="#7472E2"/>
+      <stop offset="100%" stop-color="#806EE3"/>
+    </linearGradient>
+    <linearGradient id="b" x1="18.662" x2="91.656" y1="49.516" y2="-18.087" gradientTransform="scale(.96237 1.0391)" gradientUnits="userSpaceOnUse">
+      <stop offset="11.83%" stop-color="#0095D5"/>
+      <stop offset="41.78%" stop-color="#3C83DC"/>
+      <stop offset="69.62%" stop-color="#6D74E1"/>
+      <stop offset="83.33%" stop-color="#806EE3"/>
+    </linearGradient>
+    <linearGradient id="c" x1="-43.101" x2="195.121" y1="235.366" y2="-2.856" gradientUnits="userSpaceOnUse">
+      <stop offset="10.75%" stop-color="#C757BC"/>
+      <stop offset="21.38%" stop-color="#D0609A"/>
+      <stop offset="42.54%" stop-color="#E1725C"/>
+      <stop offset="60.48%" stop-color="#EE7E2F"/>
+      <stop offset="74.3%" stop-color="#F58613"/>
+      <stop offset="82.32%" stop-color="#F88909"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#a)" d="M256 256H0l128.427-128.427z" style="fill:url(#a)"/>
+  <path fill="url(#b)" d="M0 138.667V0h128.427z" style="fill:url(#b)"/>
+  <path fill="url(#c)" d="m0 256 128.427-128.427L256 0H128.427L0 135.253z" style="fill:url(#c)"/>
 </svg>

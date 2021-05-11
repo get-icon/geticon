@@ -1,9 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="256px" height="171px" viewBox="0 0 256 171" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
-    <g>
-				<polygon fill="#30F2A2" points="0 0 85.3333333 41.8133333 85.3333333 127.146667 0 85.3333333"></polygon>
-				<polygon fill="#30F2A2" points="171.52 7.10542736e-15 256 41.8133333 171.52 85.3333333"></polygon>
-				<polygon fill="#14CC80" points="171.52 0 85.3333333 41.8133333 85.3333333 127.146667 171.52 85.3333333"></polygon>
-				<polygon fill="#14CC80" points="256 41.8133333 171.52 85.3333333 171.52 170.666667 256 127.146667"></polygon>
-		</g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 170.667">
+  <path fill="#30f2a2" d="M85.333 127.147 0 85.333V0l85.333 41.813zM171.52 85.333V0L256 41.813z"/>
+  <path fill="#14cc80" d="m85.333 127.147 86.187-41.814V0L85.333 41.813zM171.52 170.667l84.48-43.52V41.813l-84.48 43.52z"/>
 </svg>

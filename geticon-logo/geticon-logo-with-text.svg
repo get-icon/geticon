@@ -1,19 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 1295 384.4" style="enable-background:new 0 0 1295 384.4;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#5A92F2;}
-	.st1{fill:#EA5480;}
-	.st2{fill:#9CF25A;}
-	.st3{font-family:'LigaHack-Bold';}
-	.st4{font-size:220px;}
-	.st5{letter-spacing:-6;}
-	.st6{font-family:'LigaHack-Regular';}
-	.st7{font-size:120px;}
-</style>
-<path class="st0" d="M313,265.9l-108.7,44c-2.9,1.2-6,1.1-8.6,0l-109-44.3L0,303.2l199.9,81.2l200.1-81L313,265.9z"/>
-<path class="st1" d="M199,0L0,86.3l199.9,81.2l200.1-81L199,0z"/>
-<path class="st2" d="M400,195.9l-89.2-38.5l-106.5,43.1c-2.9,1.2-6,1.1-8.6,0L88.8,157.2L0,195.7l199.9,81.2L400,195.9z"/>
-<text transform="matrix(1 0 0 1 414.0008 236.3053)"><tspan x="0" y="0" class="st1 st3 st4 st5">get</tspan><tspan x="377.6" y="0" class="st0 st3 st4 st5">icon</tspan></text>
-<text transform="matrix(1 0 0 1 1008.1069 329.6166)" class="st2 st6 st7 st5">.org</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1295 384.4">
+  <style>
+    .st1{fill:#ea5480}.st2{fill:#9cf25a}.st3{font-family:&apos;Hack-Bold&apos;}.st4{font-size:220px}.st5{letter-spacing:-6}
+  </style>
+  <text x="792.759" y="236.305" fill="#5a92f2" style="fill:#5a92f2;fill-opacity:1"><tspan x="792.759" y="236.305" class="st1 st3 st4 st5" font-family="Hack" font-weight="bold" style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-family:Hack;fill:#5a92f2;fill-opacity:1">icon</tspan></text>
+  <path d="m313 265.9-108.7 44c-2.9 1.2-6 1.1-8.6 0l-109-44.3L0 303.2l199.9 81.2 200.1-81-87-37.5z" style="fill:#5a92f2"/>
+  <path d="M199 0 0 86.3l199.9 81.2 200.1-81L199 0z" class="st1"/>
+  <path d="m400 195.9-89.2-38.5-106.5 43.1c-2.9 1.2-6 1.1-8.6 0L88.8 157.2 0 195.7l199.9 81.2 200.1-81z" class="st2"/>
+  <text class="st2 st5" style="font-size:120px;font-family:'Hack-Regular'" transform="translate(1008.1 329.62)"><tspan font-family="Hack">.org</tspan></text>
+  <text x="414.001" y="236.305" fill="#ea5480"><tspan x="414.001" y="236.305" class="st1 st3 st4 st5" font-family="Hack" font-weight="bold" style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-family:Hack;">get</tspan></text>
 </svg>

@@ -1,12 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="256px" height="348px" viewBox="0 0 256 348" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
-    <defs>
-        <path d="M128,0 C128,0 0,91.0671937 0,219.067194 C0,289.770751 57.2964427,347.067194 128,347.067194 C198.703557,347.067194 256,289.770751 256,219.067194 C256,91.0671937 128,0 128,0 Z M128,293.312253 L128,293.312253 L59.3201581,214.26087 L89.9288538,214.26087 L89.9288538,123.952569 L166.071146,123.952569 L166.071146,214.26087 L196.679842,214.26087 L128,293.312253 Z" id="path-1"></path>
-    </defs>
-    <g>
-        <mask id="mask-2" fill="white">
-            <use xlink:href="#path-1"></use>
-        </mask>
-        <use fill="#38DEDF" xlink:href="#path-1"></use>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 256 347.067">
+  <defs>
+    <path id="a" d="M128 0S0 91.067 0 219.067c0 70.704 57.296 128 128 128 70.704 0 128-57.296 128-128C256 91.067 128 0 128 0zm0 293.312-68.68-79.051H89.93v-90.308h76.142v90.308h30.609z"/>
+  </defs>
+  <use width="100%" height="100%" fill="#38dedf" xlink:href="#a"/>
 </svg>

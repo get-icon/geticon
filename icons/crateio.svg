@@ -1,6 +1,3 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="256px" height="193px" viewBox="0 0 256 193" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
-    <g>
-        <path d="M192.809,0 L192.809,63.785 L256,63.785 L256,128.114 L128.54,128.114 L128.54,192.81 L64.27,192.81 L64.27,128.54 L0,128.54 L0,64.27 L128.54,64.27 L128.54,0 L192.809,0" fill="#54D2F4"></path>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 192.81">
+  <path fill="#54d2f4" d="M192.809 0v63.785H256v64.329H128.54v64.696H64.27v-64.27H0V64.27h128.54V0h64.269"/>
 </svg>

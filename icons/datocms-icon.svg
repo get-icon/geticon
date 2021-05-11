@@ -1,13 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="256px" height="259px" viewBox="0 0 256 259" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>Shape</title>
-    <defs>
-        <linearGradient x1="0%" y1="49.9993686%" x2="100%" y2="49.9993686%" id="linearGradient-1">
-            <stop stop-color="#FF593D" offset="0%"></stop>
-            <stop stop-color="#FF7751" offset="100%"></stop>
-        </linearGradient>
-    </defs>
-    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M128.001627,0.65257119 L0,0.65257119 L0,258.29879 L128.001627,258.29879 C192.018707,258.29879 256,200.619326 256,129.493574 C256,58.3678228 192.018707,0.65257119 128.001627,0.65257119 Z M128.001627,188.012432 C95.6722097,187.999835 69.474068,161.781785 69.4860428,129.452368 C69.4980258,97.122951 95.7155892,70.9243224 128.045007,70.9356973 C160.374424,70.9470795 186.57354,97.1641565 186.562765,129.493574 C186.562765,145.021331 180.392741,159.912743 169.408993,170.888558 C158.425245,181.864373 143.529379,188.024501 128.001627,188.012432 Z" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 257.646">
+  <defs>
+    <linearGradient id="a" x1="0" x2="256.822" y1="129.06" y2="129.06" gradientTransform="scale(.9968 1.00321)" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FF593D"/>
+      <stop offset="100%" stop-color="#FF7751"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#a)" fill-rule="nonzero" d="M128.002.653H0v257.646h128.002c64.017 0 127.998-57.68 127.998-128.805C256 58.368 192.019.653 128.002.653zm0 187.36c-32.33-.013-58.528-26.231-58.516-58.56.012-32.33 26.23-58.529 58.559-58.517 32.33.011 58.529 26.228 58.518 58.558a58.52 58.52 0 0 1-58.561 58.518z" style="fill:url(#a)" transform="translate(0 -.653)"/>
 </svg>

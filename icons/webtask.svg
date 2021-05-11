@@ -1,10 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
-	<g>
-		<polygon fill="#5F3237" points="256 256 0 256 0 0 256 0"></polygon>
-		<polygon fill="#E56E62" points="256 256 51.2 256 51.2 51.2 256 51.2"></polygon>
-		<polygon fill="#ED955B" points="204.8 204.8 51.2 204.8 51.2 51.2 204.8 51.2"></polygon>
-		<polygon fill="#F9E862" points="204.8 204.8 102.4 204.8 102.4 102.4 204.8 102.4"></polygon>
-		<polygon fill="#FFFFFF" points="153.6 153.6 102.4 153.6 102.4 102.4 153.6 102.4"></polygon>
-	</g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <path fill="#5f3237" d="M0 0h256v256H0z"/>
+  <path fill="#e56e62" d="M51.2 51.2H256V256H51.2z"/>
+  <path fill="#ed955b" d="M51.2 51.2h153.6v153.6H51.2z"/>
+  <path fill="#f9e862" d="M102.4 102.4h102.4v102.4H102.4z"/>
+  <path fill="#fff" d="M102.4 102.4h51.2v51.2h-51.2z"/>
 </svg>

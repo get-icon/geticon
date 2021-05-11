@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
-	<g fill="#3E8DCC">
-		<circle cx="28.8232446" cy="28.8232446" r="28.0511535"></circle>
-		<circle cx="128" cy="28.8232446" r="28.0511535"></circle>
-		<circle cx="227.176755" cy="28.8232446" r="28.0511535"></circle>
-		<circle cx="128" cy="128" r="28.0511535"></circle>
-		<circle cx="227.176755" cy="128" r="28.0511535"></circle>
-		<circle cx="227.176755" cy="227.176755" r="28.0511535"></circle>
-	</g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 254.456 254.456">
+  <g fill="#3e8dcc" transform="translate(-.772 -.772)">
+    <circle cx="28.823" cy="28.823" r="28.051"/>
+    <circle cx="128" cy="28.823" r="28.051"/>
+    <circle cx="227.177" cy="28.823" r="28.051"/>
+    <circle cx="128" cy="128" r="28.051"/>
+    <circle cx="227.177" cy="128" r="28.051"/>
+    <circle cx="227.177" cy="227.177" r="28.051"/>
+  </g>
 </svg>

@@ -36,30 +36,6 @@
     ]
   },
   {
-    "name": "6px",
-    "id": "6px",
-    "url": "https://6px.io/",
-    "files": [
-      {
-        "filename": "6px.svg",
-        "type": "icon",
-        "source": "$geticon"
-      }
-    ]
-  },
-  {
-    "name": "AdMob",
-    "id": "admob",
-    "url": "https://www.google.com/admob/",
-    "files": [
-      {
-        "filename": "admob.svg",
-        "type": "icon",
-        "source": "$geticon"
-      }
-    ]
-  },
-  {
     "name": "AdRoll",
     "id": "adroll",
     "url": "https://www.adroll.com/",
@@ -1706,7 +1682,12 @@
       {
         "filename": "brave.svg",
         "type": "icon",
-        "source": "$gb"
+        "source": "$geticon"
+      },
+      {
+        "filename": "brave-logo.svg",
+        "type": "logo",
+        "source": "$geticon"
       }
     ]
   },
@@ -2243,6 +2224,9 @@
   {
     "name": "Chrome",
     "id": "chrome",
+    "aliases": [
+      "Google Chrome"
+    ],
     "url": "https://www.google.com/chrome/",
     "files": [
       {
@@ -4336,12 +4320,18 @@
   {
     "name": "Firefox",
     "id": "firefox",
+    "aliases": "Mozilla Firefox",
     "url": "https://firefox.com/",
     "files": [
       {
         "filename": "firefox.svg",
         "type": "icon",
-        "source": "$gb"
+        "source": "$geticon"
+      },
+      {
+        "filename": "firefox_classic.svg",
+        "type": "icon",
+        "source": "$geticon"
       }
     ]
   },
@@ -6310,6 +6300,9 @@
   {
     "name": "Internet Explorer",
     "id": "internetexplorer",
+    "aliases": [
+      "IE"
+    ],
     "url": "https://windows.microsoft.com/en-us/internet-explorer/",
     "files": [
       {
@@ -8188,6 +8181,9 @@
   {
     "name": "Microsoft Edge",
     "id": "microsoft-edge",
+    "aliases": [
+      "Edge"
+    ],
     "url": "https://www.microsoft.com/en-us/windows/microsoft-edge",
     "files": [
       {
@@ -8921,8 +8917,11 @@
     ]
   },
   {
-    "name": "NW.js a.k.a. Nodewebkit",
+    "name": "NW.js",
     "id": "nwjs",
+    "aliases": [
+      "Nodewebkit"
+    ],
     "url": "https://nwjs.io/",
     "files": [
       {
@@ -9460,18 +9459,6 @@
         "filename": "perf-rocks.svg",
         "type": "icon",
         "source": "$gb"
-      }
-    ]
-  },
-  {
-    "name": "Periscope",
-    "id": "periscope",
-    "url": "https://www.periscopedata.com/",
-    "files": [
-      {
-        "filename": "periscope.svg",
-        "type": "icon",
-        "source": "$geticon"
       }
     ]
   },
@@ -10995,7 +10982,7 @@
       {
         "filename": "safari.svg",
         "type": "icon",
-        "source": "$gb"
+        "source": "$geticon"
       }
     ]
   },
@@ -13307,6 +13294,9 @@
   {
     "name": "Vivaldi",
     "id": "vivaldi",
+    "aliases": [
+      "Vivaldi Browser"
+    ],
     "url": "https://vivaldi.com/",
     "files": [
       {
@@ -13375,9 +13365,14 @@
     "url": "https://www.vultr.com/",
     "files": [
       {
-        "filename": "vultr.svg",
+        "filename": "vultr-icon.svg",
         "type": "icon",
-        "source": "$gb"
+        "source": "$geticon"
+      },
+      {
+        "filename": "vultr.svg",
+        "type": "logo",
+        "source": "$geticon"
       }
     ]
   },
@@ -13938,14 +13933,14 @@
     ]
   },
   {
-    "name": "Yandex",
+    "name": "Yandex.ru",
     "id": "yandex-ru",
     "url": "https://www.yandex.ru/",
     "files": [
       {
         "filename": "yandex-ru.svg",
         "type": "icon",
-        "source": "$gb"
+        "source": "$geticon"
       }
     ]
   },
@@ -14681,7 +14676,7 @@
     ]
   },
   {
-    "name": "NumPY",
+    "name": "NumPy",
     "id": "numpy",
     "url": "https://numpy.org/",
     "files": [
@@ -15645,18 +15640,6 @@
       {
         "filename": "monday.svg",
         "type": "logo",
-        "source": "$gb"
-      }
-    ]
-  },
-  {
-    "name": "NumPy",
-    "id": "numpy",
-    "url": "https://numpy.org/",
-    "files": [
-      {
-        "filename": "numpy.svg",
-        "type": "icon",
         "source": "$gb"
       }
     ]

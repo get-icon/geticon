@@ -1,22 +1,21 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
-    <defs>
-        <radialGradient cx="50.1407407%" cy="50.0030864%" fx="50.1407407%" fy="50.0030864%" r="50.1188272%" id="radialGradient-1">
-            <stop stop-color="#797979" offset="0%"></stop>
-            <stop stop-color="#4C4C4C" offset="100%"></stop>
-        </radialGradient>
-    </defs>
-	<g>
-		<circle fill="#F5BB60" cx="127.949264" cy="128.603432" r="127.396568"></circle>
-		<circle fill="#E86F32" cx="114.960894" cy="115.615062" r="114.684546"></circle>
-		<circle fill="#E53D42" cx="130.160051" cy="100.415906" r="99.485389"></circle>
-		<circle fill="#BFD141" cx="138.174151" cy="108.430006" r="91.4712882"></circle>
-		<circle fill="#6DB64C" cx="131.541792" cy="115.062366" r="84.8389289"></circle>
-		<circle fill="#AFDBE7" cx="118.000725" cy="101.797647" r="71.2978621"></circle>
-		<circle fill="#57BADF" cx="129.607354" cy="89.91467" r="59.6912334"></circle>
-		<circle fill="#02B2D6" cx="137.068758" cy="97.3760742" r="52.5061775"></circle>
-		<circle fill="url(#radialGradient-1)" cx="129.331006" cy="104.837478" r="44.768425"></circle>
-		<circle fill="#231F20" cx="129.331006" cy="104.837478" r="44.768425"></circle>
-		<path d="M141.088096,98.9711966 C145.526792,100.962869 151.64783,96.9551361 154.759818,90.0196748 C157.871806,83.0842136 156.796297,75.847342 152.357602,73.8556697 C147.918907,71.8639974 141.797868,75.8717302 138.68588,82.8071914 C135.573892,89.7426526 136.649401,96.9795243 141.088096,98.9711966 L141.088096,98.9711966 Z" fill="#FFFFFF"></path>
-	</g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 255.069 255.069">
+  <defs>
+    <radialGradient id="a" cx="129.457" cy="104.84" r="44.875" fx="129.457" fy="104.84" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#797979"/>
+      <stop offset="100%" stop-color="#4C4C4C"/>
+    </radialGradient>
+  </defs>
+  <g transform="translate(-.276 -.93)">
+    <circle cx="127.949" cy="128.603" r="127.397" fill="#f5bb60"/>
+    <circle cx="114.961" cy="115.615" r="114.685" fill="#e86f32"/>
+    <circle cx="130.16" cy="100.416" r="99.485" fill="#e53d42"/>
+    <circle cx="138.174" cy="108.43" r="91.471" fill="#bfd141"/>
+    <circle cx="131.542" cy="115.062" r="84.839" fill="#6db64c"/>
+    <circle cx="118.001" cy="101.798" r="71.298" fill="#afdbe7"/>
+    <circle cx="129.607" cy="89.915" r="59.691" fill="#57badf"/>
+    <circle cx="137.069" cy="97.376" r="52.506" fill="#02b2d6"/>
+    <circle cx="129.331" cy="104.837" r="44.768" fill="url(#a)" style="fill:url(#a)"/>
+    <circle cx="129.331" cy="104.837" r="44.768" fill="#231f20"/>
+    <path fill="#fff" d="M141.088 98.971c4.439 1.992 10.56-2.016 13.672-8.951 3.112-6.936 2.036-14.173-2.402-16.164-4.44-1.992-10.56 2.016-13.672 8.951-3.112 6.936-2.037 14.173 2.402 16.164z"/>
+  </g>
 </svg>
