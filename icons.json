@@ -4320,7 +4320,9 @@
   {
     "name": "Firefox",
     "id": "firefox",
-    "aliases": "Mozilla Firefox",
+    "aliases": [
+      "Mozilla Firefox"
+    ],
     "url": "https://firefox.com/",
     "files": [
       {
