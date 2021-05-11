@@ -19,7 +19,7 @@ const icons = JSON.parse(rd(iconsJson))
 const iconIndex = {}
 for (const icon of icons) {
   iconIndex[icon.name.toLowerCase()] = icon
-  iconIndex[icon.shortname.toLowerCase()] = icon
+  iconIndex[icon.id.toLowerCase()] = icon
   ;(icon.aliases || []).forEach((alias) => {
     iconIndex[alias.toLowerCase()] = icon
   })
@@ -40,7 +40,7 @@ rd(inputFile, 'utf-8')
         template
           .replace(/\$\{urlPrefix\}/g, urlPrefix)
           .replace(/\$\{iconSizeInPixel\}/g, iconSizeInPixel.toString())
-          .replace(/\$\{itemSvgUrl\}/g, techObj.files[0])
+          .replace(/\$\{itemSvgUrl\}/g, techObj.files[0].filename)
           .replace(/\$\{itemFormalName\}/g, techObj.name)
           .replace(/\$\{itemWebsiteUrl\}/g, techObj.url),
       )
