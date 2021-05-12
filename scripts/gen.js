@@ -9,43 +9,59 @@ const data = excelToJson({
     rows: 1,
   },
   columnToKey: {
-    A: 'files',
-    B: 'url',
-    C: 'name',
-    D: 'shortname',
-    E: 'alias1',
-    F: 'alias2',
-    G: 'alias3',
-    H: 'alias4',
-    I: 'alias5',
-    J: 'alias6',
+    A: 'name',
+    B: 'id',
+    C: 'url',
+    D: 'alias1',
+    E: 'alias2',
+    F: 'alias3',
+    G: 'alias4',
+    H: 'file1',
+    I: 'file2',
+    J: 'tag1',
+    K: 'tag2',
+    L: 'tag3',
+    M: 'tag4',
   },
 })
 
-const out = data.adobe.map(
+const out = data.licenses.map(
   ({
-    files,
-    url,
     name,
-    shortname,
+    id,
+    url,
     alias1,
     alias2,
     alias3,
     alias4,
-    alias5,
-    alias6,
+    file1,
+    file2,
+    tag1,
+    tag2,
+    tag3,
+    tag4,
   }) => ({
     name,
-    shortname,
-    aliases: [alias1, alias2, alias3, alias4, alias5, alias6].filter((a) => a),
+    id,
+    aliases: [alias1, alias2, alias3, alias4].filter((a) => a),
     url,
-    files: [files],
+    tags: [tag1, tag2, tag3, tag4].filter((a) => a),
+    files: [file1, file2]
+      .filter((a) => a)
+      .map((f, i) => ({
+        filename: f,
+        type: i === 0 ? 'icon' : 'logo',
+        source: '$geticon',
+      })),
   }),
 )
 
 out.forEach((v, i) => {
   if (v.aliases.length === 0) {
     delete out[i].aliases
+  }
+  if (v.tags.length === 0) {
+    delete out[i].tags
   }
 })
 

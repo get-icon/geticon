@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-305 -516 595.773 813">
+  <defs>
+    <clipPath id="a">
+      <circle r="298"/>
+    </clipPath>
+  </defs>
+  <circle cx="-7.116" cy="-1" r="100" fill="#900"/>
+  <g fill="#069" transform="translate(-7.116 -1)">
+    <g id="b" clip-path="url(#a)">
+      <path d="M-11 180v118h22V180"/>
+      <path d="m-43 185 43-75 43 75"/>
+    </g>
+    <g id="c">
+      <use width="100%" height="100%" transform="rotate(45)" xlink:href="#b"/>
+      <use width="100%" height="100%" transform="rotate(90)" xlink:href="#b"/>
+      <use width="100%" height="100%" transform="rotate(135)" xlink:href="#b"/>
+    </g>
+    <use width="100%" height="100%" transform="scale(-1 1)" xlink:href="#c"/>
+    <path fill="none" stroke="#069" stroke-width="84" d="M-181.02-181.02a256 256 0 1 0 362.04 0C110.308-251.73 3.535-215.667-17.679-371.23"/>
+    <path d="M-23-515s-36 135-80 185 116-62 170-5-90-180-90-180z"/>
+  </g>
+</svg>

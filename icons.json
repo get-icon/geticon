@@ -16073,5 +16073,742 @@
         "source": "$gb"
       }
     ]
+  },
+  {
+    "name": "Alibaba",
+    "id": "alibaba",
+    "aliases": [
+      "阿里巴巴",
+      "阿里"
+    ],
+    "url": "https://www.alibaba.com/",
+    "tags": [
+      "corporation",
+      "china"
+    ],
+    "files": [
+      {
+        "filename": "alibaba.svg",
+        "type": "icon",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "Baidu",
+    "id": "baidu",
+    "aliases": [
+      "百度"
+    ],
+    "url": "https://www.baidu.com/",
+    "tags": [
+      "corporation",
+      "website",
+      "search engine",
+      "china"
+    ],
+    "files": [
+      {
+        "filename": "baidu.svg",
+        "type": "icon",
+        "source": "$geticon"
+      },
+      {
+        "filename": "baidu-logo.svg",
+        "type": "logo",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "ByteDance",
+    "id": "bytedance",
+    "aliases": [
+      "字节跳动"
+    ],
+    "url": "https://www.bytedance.com/",
+    "tags": [
+      "corporation",
+      "china"
+    ],
+    "files": [
+      {
+        "filename": "bytedance.svg",
+        "type": "icon",
+        "source": "$geticon"
+      },
+      {
+        "filename": "bytedance-logo.svg",
+        "type": "logo",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "Chromium",
+    "id": "chromium",
+    "url": "https://www.chromium.org/",
+    "tags": [
+      "browser"
+    ],
+    "files": [
+      {
+        "filename": "chromium.svg",
+        "type": "icon",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "Gecko",
+    "id": "gecko",
+    "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Gecko",
+    "tags": [
+      "browser engine"
+    ],
+    "files": [
+      {
+        "filename": "gecko.svg",
+        "type": "icon",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "Maxthon",
+    "id": "maxthon",
+    "aliases": [
+      "傲游",
+      "傲游浏览器",
+      "MyIE2"
+    ],
+    "url": "https://www.maxthon.com/",
+    "tags": [
+      "browser",
+      "china"
+    ],
+    "files": [
+      {
+        "filename": "maxthon.svg",
+        "type": "icon",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "MediaWiki",
+    "id": "mediawiki",
+    "url": "https://www.mediawiki.org/wiki/MediaWiki",
+    "tags": [
+      "software",
+      "wiki"
+    ],
+    "files": [
+      {
+        "filename": "mediawiki.svg",
+        "type": "icon",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "QQ",
+    "id": "qq",
+    "url": "https://im.qq.com/",
+    "tags": [
+      "instant messenger",
+      "social media",
+      "china"
+    ],
+    "files": [
+      {
+        "filename": "qq.svg",
+        "type": "icon",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "Qwant",
+    "id": "qwant",
+    "url": "https://www.qwant.com/",
+    "tags": [
+      "search engine",
+      "france"
+    ],
+    "files": [
+      {
+        "filename": "qwant.svg",
+        "type": "icon",
+        "source": "$geticon"
+      },
+      {
+        "filename": "qwant-logo.svg",
+        "type": "logo",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "Samsung Internet",
+    "id": "samsung_internet",
+    "url": "https://www.samsung.com/us/support/owners/app/samsung-internet",
+    "tags": [
+      "browser"
+    ],
+    "files": [
+      {
+        "filename": "samsung_internet.svg",
+        "type": "icon",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "Sina Weibo",
+    "id": "sina_weibo",
+    "aliases": [
+      "Weibo",
+      "新浪微博",
+      "微博"
+    ],
+    "url": "https://weibo.com/",
+    "tags": [
+      "social media",
+      "china"
+    ],
+    "files": [
+      {
+        "filename": "sina_weibo.svg",
+        "type": "icon",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "Tencent",
+    "id": "tencent",
+    "aliases": [
+      "腾讯"
+    ],
+    "url": "https://www.tencent.com/",
+    "tags": [
+      "corporation",
+      "china"
+    ],
+    "files": [
+      {
+        "filename": "tencent.svg",
+        "type": "icon",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "TikTok",
+    "id": "tiktok",
+    "aliases": [
+      "抖音"
+    ],
+    "url": "https://www.tiktok.com/",
+    "tags": [
+      "application",
+      "social media",
+      "china"
+    ],
+    "files": [
+      {
+        "filename": "tiktok.svg",
+        "type": "icon",
+        "source": "$geticon"
+      },
+      {
+        "filename": "tiktok-logo.svg",
+        "type": "logo",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "Tor Browser",
+    "id": "tor_browser",
+    "url": "https://www.torproject.org/",
+    "tags": [
+      "browser"
+    ],
+    "files": [
+      {
+        "filename": "tor_browser.svg",
+        "type": "icon",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "UC Browser",
+    "id": "ucbrowser",
+    "aliases": [
+      "UC浏览器"
+    ],
+    "url": "http://www.ucweb.com/",
+    "tags": [
+      "browser"
+    ],
+    "files": [
+      {
+        "filename": "ucbrowser.svg",
+        "type": "icon",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "WebGL",
+    "id": "webgl",
+    "url": "https://www.khronos.org/webgl/",
+    "files": [
+      {
+        "filename": "webgl.svg",
+        "type": "icon",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "WebKit",
+    "id": "webkit",
+    "url": "https://webkit.org/",
+    "tags": [
+      "browser engine"
+    ],
+    "files": [
+      {
+        "filename": "webkit.svg",
+        "type": "icon",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "WeChat",
+    "id": "wechat",
+    "aliases": [
+      "微信"
+    ],
+    "url": "https://www.wechat.com/",
+    "tags": [
+      "instant messenger",
+      "social media",
+      "china"
+    ],
+    "files": [
+      {
+        "filename": "wechat.svg",
+        "type": "icon",
+        "source": "$geticon"
+      },
+      {
+        "filename": "wechat-logo.svg",
+        "type": "logo",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "Wikimedia",
+    "id": "wikimedia",
+    "url": "https://www.wikimedia.org/",
+    "tags": [
+      "organization",
+      "wiki"
+    ],
+    "files": [
+      {
+        "filename": "wikimedia.svg",
+        "type": "icon",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "Wikimedia Commons",
+    "id": "wikimedia_commons",
+    "url": "https://commons.wikimedia.org/",
+    "tags": [
+      "website",
+      "wiki"
+    ],
+    "files": [
+      {
+        "filename": "wikimedia_commons.svg",
+        "type": "icon",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "Wikipedia",
+    "id": "wikipedia",
+    "url": "https://www.wikipedia.org/",
+    "tags": [
+      "website",
+      "wiki"
+    ],
+    "files": [
+      {
+        "filename": "wikipedia.svg",
+        "type": "icon",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "Yandex",
+    "id": "yandex",
+    "url": "https://yandex.com/",
+    "tags": [
+      "website",
+      "search engine",
+      "corporation",
+      "russia"
+    ],
+    "files": [
+      {
+        "filename": "yandex-logo.svg",
+        "type": "icon",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "Yandex Browser",
+    "id": "yandex_browser",
+    "url": "https://browser.yandex.com/",
+    "tags": [
+      "browser engine",
+      "russia"
+    ],
+    "files": [
+      {
+        "filename": "yandex_browser.svg",
+        "type": "icon",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "AGPL v3",
+    "id": "agpl_v3",
+    "url": "https://www.gnu.org/licenses/agpl-3.0.html",
+    "tags": [
+      "license"
+    ],
+    "files": [
+      {
+        "filename": "agpl_v3.svg",
+        "type": "icon",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "BSD License",
+    "id": "bsd",
+    "url": "https://en.wikipedia.org/wiki/BSD_licenses",
+    "tags": [
+      "license"
+    ],
+    "files": [
+      {
+        "filename": "bsd.svg",
+        "type": "icon",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "CC0",
+    "id": "cc-0",
+    "url": "https://creativecommons.org/share-your-work/public-domain/cc0/",
+    "tags": [
+      "license"
+    ],
+    "files": [
+      {
+        "filename": "cc-0-button.svg",
+        "type": "icon",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "Public domain (CC0)",
+    "id": "cc-0-icon",
+    "url": "https://creativecommons.org/share-your-work/public-domain/cc0/",
+    "tags": [
+      "license"
+    ],
+    "files": [
+      {
+        "filename": "cc-0-icon.svg",
+        "type": "icon",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "Creative Commons - Attribution (CC-BY)",
+    "id": "cc-by",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "license"
+    ],
+    "files": [
+      {
+        "filename": "cc-by-button.svg",
+        "type": "icon",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "Attribution (BY)",
+    "id": "cc-by-icon",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "license"
+    ],
+    "files": [
+      {
+        "filename": "cc-by-icon.svg",
+        "type": "icon",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "Creative Commons - Attribution-Noncommercial (CC-BY-NC)",
+    "id": "cc-by-nc",
+    "url": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "tags": [
+      "license"
+    ],
+    "files": [
+      {
+        "filename": "cc-by-nc-button.svg",
+        "type": "icon",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "Creative Commons - Attribution-Noncommercial-NoDerivatives (CC-BY-NC-ND)",
+    "id": "cc-by-nc-nd",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "tags": [
+      "license"
+    ],
+    "files": [
+      {
+        "filename": "cc-by-nc-nd-button.svg",
+        "type": "icon",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "Creative Commons - Attribution-Noncommercial-ShareAlike (CC-BY-NC-SA)",
+    "id": "cc-by-nc-sa",
+    "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "tags": [
+      "license"
+    ],
+    "files": [
+      {
+        "filename": "cc-by-nc-sa-button.svg",
+        "type": "icon",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "Creative Commons - Attribution-NoDerivatives (CC-BY-ND)",
+    "id": "cc-by-nd",
+    "url": "https://creativecommons.org/licenses/by-nd/4.0/",
+    "tags": [
+      "license"
+    ],
+    "files": [
+      {
+        "filename": "cc-by-nd-button.svg",
+        "type": "icon",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "Creative Commons - Attribution-ShareAlike (CC-BY-SA)",
+    "id": "cc-by-sa",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "tags": [
+      "license"
+    ],
+    "files": [
+      {
+        "filename": "cc-by-sa-button.svg",
+        "type": "icon",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "Non-commercial (NC)",
+    "id": "cc-nc-icon",
+    "url": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "tags": [
+      "license"
+    ],
+    "files": [
+      {
+        "filename": "cc-nc-icon.svg",
+        "type": "icon",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "No Derivative Works (ND)",
+    "id": "cc-nd-icon",
+    "url": "https://creativecommons.org/licenses/by-nd/4.0/",
+    "tags": [
+      "license"
+    ],
+    "files": [
+      {
+        "filename": "cc-nd-icon.svg",
+        "type": "icon",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "Creative Commons - Public Domain Mark",
+    "id": "cc-pd",
+    "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "tags": [
+      "license"
+    ],
+    "files": [
+      {
+        "filename": "cc-pd-button.svg",
+        "type": "icon",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "Public domain (CC)",
+    "id": "cc-pd-icon",
+    "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "tags": [
+      "license"
+    ],
+    "files": [
+      {
+        "filename": "cc-pd-icon.svg",
+        "type": "icon",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "Share-alike (SA)",
+    "id": "cc-sa-icon",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "tags": [
+      "license"
+    ],
+    "files": [
+      {
+        "filename": "cc-sa-icon.svg",
+        "type": "icon",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "GFDL",
+    "id": "gfdl",
+    "url": "https://www.gnu.org/licenses/fdl-1.3.html",
+    "tags": [
+      "license"
+    ],
+    "files": [
+      {
+        "filename": "gfdl.svg",
+        "type": "icon",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "GPL v3",
+    "id": "gpl_v3",
+    "url": "https://www.gnu.org/licenses/gpl-3.0.html",
+    "tags": [
+      "license"
+    ],
+    "files": [
+      {
+        "filename": "gpl_v3.svg",
+        "type": "icon",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "LGPL v3",
+    "id": "lgpl_v3",
+    "url": "https://www.gnu.org/licenses/lgpl-3.0.html",
+    "tags": [
+      "license"
+    ],
+    "files": [
+      {
+        "filename": "lgpl_v3.svg",
+        "type": "icon",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "MIT License",
+    "id": "mit",
+    "url": "https://opensource.org/licenses/MIT",
+    "tags": [
+      "license"
+    ],
+    "files": [
+      {
+        "filename": "mit.svg",
+        "type": "icon",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "Public domain",
+    "id": "pd",
+    "url": "https://en.wikipedia.org/wiki/Public_domain",
+    "tags": [
+      "license"
+    ],
+    "files": [
+      {
+        "filename": "pd-icon.svg",
+        "type": "icon",
+        "source": "$geticon"
+      }
+    ]
   }
 ]

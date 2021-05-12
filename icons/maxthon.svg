@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 295.2 319.8">
+  <filter id="a" height="1.3">
+    <feGaussianBlur in="SourceAlpha" stdDeviation="2"/>
+    <feOffset dy="1" result="offsetblur"/>
+  </filter>
+  <path d="M24.6 24.6h246v246h-246z" style="opacity:.6;filter:url(#a)"/>
+  <path d="M24.6 24.6h246v246h-246z" style="fill:#fff"/>
+  <path d="M30.1 229.6c47-24 48-24 106-34 17-10 95 20 130 30v40h-238l1.5-36z" style="fill:#a6d3fc"/>
+  <path d="M24.6 24.6h246v246h-246zm241 201c-2 0-10 2-16 6 0 4 0 6-2 9-8-28-35-35-55-21l3-9c-40-30-80-12-101 14 0 0-1-5 5-14-13-6-36 3-42 11l8 7c-12-5-27-1-36 2v35h236v-39zm-157-94h79v64l6 4h33v-73c0-27-27-35-40-35h-117v108h39zm59 58v-38h-39v38c10-3 26-4 39-1z" style="fill:#0080f5"/>
+</svg>

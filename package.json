@@ -7,6 +7,7 @@
     "start": "node index.js",
     "start:deno": "deno run --allow-read --allow-write index.js",
     "dev:gen": "node scripts/gen.js",
+    "dev:count": "node scripts/count.js",
     "dev:minifysrc": "svgo -f ./icons -o ./output"
   },
   "dependencies": {},
