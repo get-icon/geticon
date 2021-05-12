@@ -53,8 +53,13 @@
     "url": "https://adonisjs.com/",
     "files": [
       {
-        "filename": "adonis.svg",
+        "filename": "adonis-icon.svg",
         "type": "icon",
+        "source": "$geticon"
+      },
+      {
+        "filename": "adonis.svg",
+        "type": "logo",
         "source": "$geticon"
       }
     ]
