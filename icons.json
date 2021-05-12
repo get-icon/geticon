@@ -3821,7 +3821,10 @@
   {
     "name": "Electron",
     "id": "electron",
-    "url": "https://electron.atom.io/",
+    "aliases": [
+      "Electron.js"
+    ],
+    "url": "https://www.electronjs.org/",
     "files": [
       {
         "filename": "electron.svg",
@@ -4313,7 +4316,12 @@
       {
         "filename": "firebase.svg",
         "type": "icon",
-        "source": "$gb"
+        "source": "$geticon"
+      },
+      {
+        "filename": "firebase-logo.svg",
+        "type": "logo",
+        "source": "$geticon"
       }
     ]
   },
@@ -8684,7 +8692,7 @@
   {
     "name": "Next.js",
     "id": "nextjs",
-    "url": "https://zeit.co/next",
+    "url": "https://nextjs.org/",
     "files": [
       {
         "filename": "nextjs-icon.svg",
@@ -13521,7 +13529,12 @@
       {
         "filename": "webpack.svg",
         "type": "icon",
-        "source": "$gb"
+        "source": "$geticon"
+      },
+      {
+        "filename": "webpack-logo.svg",
+        "type": "logo",
+        "source": "$geticon"
       }
     ]
   },
@@ -15112,7 +15125,7 @@
   {
     "name": "Appbase",
     "id": "appbaseio",
-    "url": "http://appbase.io/",
+    "url": "https://www.appbase.io/",
     "files": [
       {
         "filename": "appbaseio-icon.svg",
@@ -15264,7 +15277,7 @@
   {
     "name": "Conan",
     "id": "conan-io",
-    "url": "http://conan.io/",
+    "url": "https://conan.io/",
     "files": [
       {
         "filename": "conan-io.svg",
@@ -15649,7 +15662,7 @@
   {
     "name": "PHP",
     "id": "php",
-    "url": "http://php.net/",
+    "url": "https://php.net/",
     "files": [
       {
         "filename": "php.svg",
@@ -15971,16 +15984,16 @@
   },
   {
     "name": "web.dev",
-    "id": "web.dev",
+    "id": "webdev",
     "url": "https://web.dev/",
     "files": [
       {
-        "filename": "web.dev-icon.svg",
+        "filename": "webdev-icon.svg",
         "type": "icon",
         "source": "$gb"
       },
       {
-        "filename": "web.dev.svg",
+        "filename": "webdev.svg",
         "type": "logo",
         "source": "$gb"
       }
@@ -15994,12 +16007,12 @@
       {
         "filename": "webhint-icon.svg",
         "type": "icon",
-        "source": "$gb"
+        "source": "$geticon"
       },
       {
         "filename": "webhint.svg",
         "type": "logo",
-        "source": "$gb"
+        "source": "$geticon"
       }
     ]
   },

@@ -1,52 +1,83 @@
+TypeScript
 JavaScript
 ECMAScript
-TypeScript
 React
 Redux
 Vue
+Angular
 Svelte
+RxJS
+redux-observable
+D3
+GSAP
+WebRTC
+Workbox
 jQuery
 CSS
 Sass
+Tailwind CSS
+Material UI
+Ant Design
 Bootstrap
 HTML
 Node.js
 Express.js
+Next.js
+Electron
 PHP
+Laravel
+Symfony
+CodeIgniter
 Java
 Spring
 Python
-MySQL
+Django
+pandas
+NumPy
 MongoDB
+MySQL
+PostgreSQL
 GraphQL
-Docker
-Angular
-Next.js
-React Native
-Deno
+Apollo
 git
+SVN
 npm
 yarn
-Gulp
 webpack
+Gulp
 rollup
+Vite
+Snowpack
 Babel
+Handlebars
 ESLint
 Prettier
 Jest
+Enzyme
+cypress
+Nightwatch
 CircleCI
 Codecov
-Visual Studio Code
-Electron
+VS Code
+Sublime text
 Gatsby
 Hugo
 WordPress
-Material UI
-Ant Design
-Adobe Photoshop
-Adobe Illustrator
+Apache
+AWS
+Azure
+Firebase
+Elasticsearch
+Cloudflare
+OpenID
+Deno
+Docker
+React Native
 Delphi
 C
 C++
 R
 NSIS
+Adobe Photoshop
+Adobe Illustrator
+Inkscape
