@@ -1,5 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
-  <path d="m313 273.7-108.7 44c-2.9 1.2-6 1.1-8.6 0l-109-44.3L0 311l199.9 81.2 200.1-81-87-37.5z" style="fill:#5a92f2"/>
-  <path d="M199 7.8 0 94.1l199.9 81.2 200.1-81L199 7.8z" style="fill:#ea5480"/>
-  <path d="m400 203.7-89.2-38.5-106.5 43.1c-2.9 1.2-6 1.1-8.6 0L88.8 165 0 203.5l199.9 81.2 200.1-81z" style="fill:#9cf25a"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1295 384.4">
+  <style>
+    .st1{fill:#ea5480}.st2{fill:#9cf25a}.st3{font-family:&apos;Hack-Bold&apos;}.st4{font-size:220px}.st5{letter-spacing:-6}
+  </style>
+  <text x="792.759" y="236.305" fill="#5a92f2" style="fill:#5a92f2;fill-opacity:1"><tspan x="792.759" y="236.305" class="st1 st3 st4 st5" font-family="Hack" font-weight="bold" style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-family:Hack;fill:#5a92f2;fill-opacity:1">icon</tspan></text>
+  <path d="m313 265.9-108.7 44c-2.9 1.2-6 1.1-8.6 0l-109-44.3L0 303.2l199.9 81.2 200.1-81-87-37.5z" style="fill:#5a92f2"/>
+  <path d="M199 0 0 86.3l199.9 81.2 200.1-81L199 0z" class="st1"/>
+  <path d="m400 195.9-89.2-38.5-106.5 43.1c-2.9 1.2-6 1.1-8.6 0L88.8 157.2 0 195.7l199.9 81.2 200.1-81z" class="st2"/>
+  <text class="st2 st5" style="font-size:120px;font-family:'Hack-Regular'" transform="translate(1008.1 329.62)"><tspan font-family="Hack">.org</tspan></text>
+  <text x="414.001" y="236.305" fill="#ea5480"><tspan x="414.001" y="236.305" class="st1 st3 st4 st5" font-family="Hack" font-weight="bold" style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-family:Hack;">get</tspan></text>
 </svg>
