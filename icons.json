@@ -2624,7 +2624,12 @@
       {
         "filename": "codeigniter.svg",
         "type": "icon",
-        "source": "$gb"
+        "source": "$geticon"
+      },
+      {
+        "filename": "codeigniter-logo.svg",
+        "type": "logo",
+        "source": "$gb:codeigniter.svg"
       }
     ]
   },
@@ -16840,6 +16845,7 @@
   {
     "name": "1password",
     "id": "1password",
+    "url": "https://1password.com/",
     "tags": [
       "password manager"
     ],
@@ -16859,6 +16865,7 @@
   {
     "name": "7-Zip",
     "id": "7zip",
+    "url": "https://www.7-zip.org/",
     "tags": [
       "file archiver"
     ],
@@ -16876,6 +16883,7 @@
     "aliases": [
       "支付宝"
     ],
+    "url": "https://intl.alipay.com/",
     "tags": [
       "china",
       "payment"
@@ -16902,6 +16910,7 @@
       "Ooo",
       "AOO"
     ],
+    "url": "https://www.openoffice.org/",
     "tags": [
       "office"
     ],
@@ -16921,6 +16930,7 @@
   {
     "name": "Bitwarden",
     "id": "bitwarden",
+    "url": "https://bitwarden.com/",
     "tags": [
       "password manager"
     ],
@@ -16940,6 +16950,7 @@
   {
     "name": "Daemon Tools",
     "id": "daemon-tools",
+    "url": "https://www.daemon-tools.cc/",
     "files": [
       {
         "filename": "daemon-tools.svg",
@@ -16951,6 +16962,7 @@
   {
     "name": "Dashlane",
     "id": "dashlane",
+    "url": "https://www.dashlane.com/",
     "tags": [
       "password manager"
     ],
@@ -16974,6 +16986,7 @@
       "DEV",
       "Devto"
     ],
+    "url": "https://dev.to/",
     "tags": [
       "website"
     ],
@@ -16988,6 +17001,7 @@
   {
     "name": "Evernote",
     "id": "evernote",
+    "url": "https://evernote.com/",
     "files": [
       {
         "filename": "evernote-icon.svg",
@@ -17007,6 +17021,7 @@
     "aliases": [
       "Messenger"
     ],
+    "url": "https://www.facebook.com/messenger/",
     "tags": [
       "instant messenger"
     ],
@@ -17021,6 +17036,7 @@
   {
     "name": "FileZilla",
     "id": "filezilla",
+    "url": "https://filezilla-project.org/",
     "files": [
       {
         "filename": "filezilla.svg",
@@ -17032,6 +17048,7 @@
   {
     "name": "gcc",
     "id": "gcc",
+    "url": "https://gcc.gnu.org/",
     "files": [
       {
         "filename": "gcc.svg",
@@ -17043,6 +17060,7 @@
   {
     "name": "GIMP",
     "id": "gimp",
+    "url": "https://www.gimp.org/",
     "tags": [
       "image editor"
     ],
@@ -17057,6 +17075,7 @@
   {
     "name": "GNOME",
     "id": "gnome",
+    "url": "https://www.gnome.org/",
     "files": [
       {
         "filename": "gnome.svg",
@@ -17068,6 +17087,7 @@
   {
     "name": "Google Earth",
     "id": "google-earth",
+    "url": "https://www.google.com/earth/",
     "tags": [
       "google"
     ],
@@ -17085,6 +17105,7 @@
     "aliases": [
       "Guix"
     ],
+    "url": "https://guix.gnu.org/",
     "tags": [
       "package manager"
     ],
@@ -17102,6 +17123,7 @@
     "aliases": [
       "Kali"
     ],
+    "url": "https://www.kali.org/",
     "tags": [
       "operating system"
     ],
@@ -17121,6 +17143,7 @@
   {
     "name": "Keybase",
     "id": "keybase",
+    "url": "https://keybase.io/",
     "tags": [
       "website"
     ],
@@ -17138,6 +17161,7 @@
     "aliases": [
       "快手"
     ],
+    "url": "https://www.kuaishou.com/",
     "tags": [
       "china",
       "website",
@@ -17159,6 +17183,7 @@
   {
     "name": "LastPass",
     "id": "lastpass",
+    "url": "https://www.lastpass.com/",
     "tags": [
       "password manager"
     ],
@@ -17178,6 +17203,7 @@
   {
     "name": "LibreOffice",
     "id": "libreoffice",
+    "url": "https://www.libreoffice.org/",
     "tags": [
       "office"
     ],
@@ -17197,6 +17223,7 @@
   {
     "name": "LINE",
     "id": "line",
+    "url": "https://line.me/",
     "tags": [
       "instant messenger"
     ],
@@ -17211,6 +17238,7 @@
   {
     "name": "MEGA",
     "id": "mega",
+    "url": "https://mega.io/",
     "tags": [
       "file hosting"
     ],
@@ -17233,6 +17261,7 @@
     "aliases": [
       "Excel"
     ],
+    "url": "https://www.microsoft.com/en-us/microsoft-365/excel",
     "tags": [
       "microsoft office",
       "microsoft",
@@ -17252,6 +17281,7 @@
     "aliases": [
       "OneDrive"
     ],
+    "url": "https://www.microsoft.com/en-us/microsoft-365/onedrive",
     "tags": [
       "microsoft office",
       "microsoft",
@@ -17271,6 +17301,7 @@
     "aliases": [
       "OneNote"
     ],
+    "url": "https://www.microsoft.com/en-us/microsoft-365/onenote",
     "tags": [
       "microsoft office",
       "microsoft",
@@ -17290,6 +17321,7 @@
     "aliases": [
       "PowerPoint"
     ],
+    "url": "https://www.microsoft.com/en-us/microsoft-365/powerpoint",
     "tags": [
       "microsoft office",
       "microsoft",
@@ -17309,6 +17341,7 @@
     "aliases": [
       "SharePoint"
     ],
+    "url": "https://www.microsoft.com/en-us/microsoft-365/sharepoint",
     "tags": [
       "microsoft office",
       "microsoft",
@@ -17328,6 +17361,7 @@
     "aliases": [
       "Teams"
     ],
+    "url": "https://www.microsoft.com/en-us/microsoft-teams",
     "tags": [
       "microsoft office",
       "microsoft",
@@ -17349,6 +17383,7 @@
     "aliases": [
       "Word"
     ],
+    "url": "https://www.microsoft.com/en-us/microsoft-365/word",
     "tags": [
       "microsoft office",
       "microsoft",
@@ -17368,6 +17403,7 @@
     "aliases": [
       "Microsoft Yammer"
     ],
+    "url": "https://www.microsoft.com/en-us/microsoft-365/yammer",
     "tags": [
       "microsoft office",
       "microsoft",
@@ -17389,6 +17425,7 @@
   {
     "name": "Microsoft Office",
     "id": "microsoft-office",
+    "url": "https://www.microsoft.com/en-us/microsoft-365",
     "tags": [
       "microsoft office",
       "microsoft",
@@ -17408,6 +17445,7 @@
     "aliases": [
       "QQ空间"
     ],
+    "url": "https://qzone.qq.com/",
     "tags": [
       "china",
       "website"
@@ -17423,6 +17461,7 @@
   {
     "name": "Snapchat",
     "id": "snapchat",
+    "url": "https://www.snapchat.com/",
     "tags": [
       "instant messenger"
     ],
@@ -17440,6 +17479,7 @@
     "aliases": [
       "Mozilla Thunderbird"
     ],
+    "url": "https://www.thunderbird.net/",
     "tags": [
       "email client"
     ],
@@ -17457,6 +17497,7 @@
     "aliases": [
       "Rakuten Viber"
     ],
+    "url": "https://www.viber.com/",
     "tags": [
       "instant messenger"
     ],
@@ -17479,6 +17520,7 @@
     "aliases": [
       "知乎"
     ],
+    "url": "https://www.zhihu.com/",
     "tags": [
       "china",
       "website",
@@ -17495,6 +17537,7 @@
   {
     "name": "Zoom",
     "id": "zoom",
+    "url": "https://zoom.us/",
     "tags": [
       "videoconference",
       "instant messenger"
