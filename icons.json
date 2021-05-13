@@ -3190,23 +3190,6 @@
     ]
   },
   {
-    "name": "Dashlane",
-    "id": "dashlane",
-    "url": "https://www.dashlane.com/",
-    "files": [
-      {
-        "filename": "dashlane.svg",
-        "type": "icon",
-        "source": "$gb:dashlane-icon.svg"
-      },
-      {
-        "filename": "dashlane-logo.svg",
-        "type": "logo",
-        "source": "$gb:dashlane.svg"
-      }
-    ]
-  },
-  {
     "name": "dat",
     "id": "dat",
     "url": "https://dat-data.com/",
@@ -13996,18 +13979,6 @@
     ]
   },
   {
-    "name": "Yammer",
-    "id": "yammer",
-    "url": "https://www.yammer.com/",
-    "files": [
-      {
-        "filename": "yammer.svg",
-        "type": "icon",
-        "source": "$gb"
-      }
-    ]
-  },
-  {
     "name": "Yandex.ru",
     "id": "yandex-ru",
     "url": "https://www.yandex.ru/",
@@ -16862,6 +16833,681 @@
       {
         "filename": "pd-icon.svg",
         "type": "icon",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "1password",
+    "id": "1password",
+    "tags": [
+      "password manager"
+    ],
+    "files": [
+      {
+        "filename": "1password.svg",
+        "type": "icon",
+        "source": "$geticon"
+      },
+      {
+        "filename": "1password-logo.svg",
+        "type": "logo",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "7-Zip",
+    "id": "7zip",
+    "tags": [
+      "file archiver"
+    ],
+    "files": [
+      {
+        "filename": "7zip.svg",
+        "type": "icon",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "Alipay",
+    "id": "alipay",
+    "aliases": [
+      "支付宝"
+    ],
+    "tags": [
+      "china",
+      "payment"
+    ],
+    "files": [
+      {
+        "filename": "alipay.svg",
+        "type": "icon",
+        "source": "$geticon"
+      },
+      {
+        "filename": "alipay-logo.svg",
+        "type": "logo",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "Apache OpenOffice",
+    "id": "openoffice",
+    "aliases": [
+      "OpenOffice",
+      "OpenOffice.org",
+      "Ooo",
+      "AOO"
+    ],
+    "tags": [
+      "office"
+    ],
+    "files": [
+      {
+        "filename": "apache-openoffice-icon.svg",
+        "type": "icon",
+        "source": "$geticon"
+      },
+      {
+        "filename": "apache-openoffice-logo.svg",
+        "type": "logo",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "Bitwarden",
+    "id": "bitwarden",
+    "tags": [
+      "password manager"
+    ],
+    "files": [
+      {
+        "filename": "bitwarden.svg",
+        "type": "icon",
+        "source": "$geticon"
+      },
+      {
+        "filename": "bitwarden-logo.svg",
+        "type": "logo",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "Daemon Tools",
+    "id": "daemon-tools",
+    "files": [
+      {
+        "filename": "daemon-tools.svg",
+        "type": "icon",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "Dashlane",
+    "id": "dashlane",
+    "tags": [
+      "password manager"
+    ],
+    "files": [
+      {
+        "filename": "dashlane.svg",
+        "type": "icon",
+        "source": "$geticon"
+      },
+      {
+        "filename": "dashlane-logo.svg",
+        "type": "logo",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "Dev.to",
+    "id": "devto",
+    "aliases": [
+      "DEV",
+      "Devto"
+    ],
+    "tags": [
+      "website"
+    ],
+    "files": [
+      {
+        "filename": "devto.svg",
+        "type": "icon",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "Evernote",
+    "id": "evernote",
+    "files": [
+      {
+        "filename": "evernote-icon.svg",
+        "type": "icon",
+        "source": "$geticon"
+      },
+      {
+        "filename": "evernote-logo.svg",
+        "type": "logo",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "Facebook Messenger",
+    "id": "facebook-messenger",
+    "aliases": [
+      "Messenger"
+    ],
+    "tags": [
+      "instant messenger"
+    ],
+    "files": [
+      {
+        "filename": "facebook-messenger.svg",
+        "type": "icon",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "FileZilla",
+    "id": "filezilla",
+    "files": [
+      {
+        "filename": "filezilla.svg",
+        "type": "icon",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "gcc",
+    "id": "gcc",
+    "files": [
+      {
+        "filename": "gcc.svg",
+        "type": "icon",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "GIMP",
+    "id": "gimp",
+    "tags": [
+      "image editor"
+    ],
+    "files": [
+      {
+        "filename": "gimp.svg",
+        "type": "icon",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "GNOME",
+    "id": "gnome",
+    "files": [
+      {
+        "filename": "gnome.svg",
+        "type": "icon",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "Google Earth",
+    "id": "google-earth",
+    "tags": [
+      "google"
+    ],
+    "files": [
+      {
+        "filename": "google-earth.svg",
+        "type": "icon",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "GNU Guix",
+    "id": "guix",
+    "aliases": [
+      "Guix"
+    ],
+    "tags": [
+      "package manager"
+    ],
+    "files": [
+      {
+        "filename": "guix.svg",
+        "type": "icon",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "Kali Linux",
+    "id": "kali-linux",
+    "aliases": [
+      "Kali"
+    ],
+    "tags": [
+      "operating system"
+    ],
+    "files": [
+      {
+        "filename": "kali-dragon-icon.svg",
+        "type": "icon",
+        "source": "$geticon"
+      },
+      {
+        "filename": "kali-logo.svg",
+        "type": "logo",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "Keybase",
+    "id": "keybase",
+    "tags": [
+      "website"
+    ],
+    "files": [
+      {
+        "filename": "keybase.svg",
+        "type": "icon",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "Kuaishou",
+    "id": "kuaishou",
+    "aliases": [
+      "快手"
+    ],
+    "tags": [
+      "china",
+      "website",
+      "streaming"
+    ],
+    "files": [
+      {
+        "filename": "kuaishou-icon.svg",
+        "type": "icon",
+        "source": "$geticon"
+      },
+      {
+        "filename": "kuaishou-logo.svg",
+        "type": "logo",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "LastPass",
+    "id": "lastpass",
+    "tags": [
+      "password manager"
+    ],
+    "files": [
+      {
+        "filename": "lastpass-icon.svg",
+        "type": "icon",
+        "source": "$geticon"
+      },
+      {
+        "filename": "lastpass-logo.svg",
+        "type": "logo",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "LibreOffice",
+    "id": "libreoffice",
+    "tags": [
+      "office"
+    ],
+    "files": [
+      {
+        "filename": "libreoffice-icon.svg",
+        "type": "icon",
+        "source": "$geticon"
+      },
+      {
+        "filename": "libreoffice-logo.svg",
+        "type": "logo",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "LINE",
+    "id": "line",
+    "tags": [
+      "instant messenger"
+    ],
+    "files": [
+      {
+        "filename": "line.svg",
+        "type": "icon",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "MEGA",
+    "id": "mega",
+    "tags": [
+      "file hosting"
+    ],
+    "files": [
+      {
+        "filename": "mega.svg",
+        "type": "icon",
+        "source": "$geticon"
+      },
+      {
+        "filename": "mega-logo.svg",
+        "type": "logo",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "Microsoft Excel",
+    "id": "excel",
+    "aliases": [
+      "Excel"
+    ],
+    "tags": [
+      "microsoft office",
+      "microsoft",
+      "office"
+    ],
+    "files": [
+      {
+        "filename": "microsoft-office-excel.svg",
+        "type": "icon",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "Microsoft OneDrive",
+    "id": "onedrive",
+    "aliases": [
+      "OneDrive"
+    ],
+    "tags": [
+      "microsoft office",
+      "microsoft",
+      "office"
+    ],
+    "files": [
+      {
+        "filename": "microsoft-office-onedrive.svg",
+        "type": "icon",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "Microsoft OneNote",
+    "id": "onenote",
+    "aliases": [
+      "OneNote"
+    ],
+    "tags": [
+      "microsoft office",
+      "microsoft",
+      "office"
+    ],
+    "files": [
+      {
+        "filename": "microsoft-office-onenote.svg",
+        "type": "icon",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "Microsoft PowerPoint",
+    "id": "powerpoint",
+    "aliases": [
+      "PowerPoint"
+    ],
+    "tags": [
+      "microsoft office",
+      "microsoft",
+      "office"
+    ],
+    "files": [
+      {
+        "filename": "microsoft-office-powerpoint.svg",
+        "type": "icon",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "Microsoft SharePoint",
+    "id": "sharepoint",
+    "aliases": [
+      "SharePoint"
+    ],
+    "tags": [
+      "microsoft office",
+      "microsoft",
+      "office"
+    ],
+    "files": [
+      {
+        "filename": "microsoft-office-sharepoint.svg",
+        "type": "icon",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "Microsoft Teams",
+    "id": "microsoft-teams",
+    "aliases": [
+      "Teams"
+    ],
+    "tags": [
+      "microsoft office",
+      "microsoft",
+      "videoconference",
+      "instant messenger",
+      "office"
+    ],
+    "files": [
+      {
+        "filename": "microsoft-office-teams.svg",
+        "type": "icon",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "Microsoft Word",
+    "id": "word",
+    "aliases": [
+      "Word"
+    ],
+    "tags": [
+      "microsoft office",
+      "microsoft",
+      "office"
+    ],
+    "files": [
+      {
+        "filename": "microsoft-office-word.svg",
+        "type": "icon",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "Yammer",
+    "id": "yammer",
+    "aliases": [
+      "Microsoft Yammer"
+    ],
+    "tags": [
+      "microsoft office",
+      "microsoft",
+      "office"
+    ],
+    "files": [
+      {
+        "filename": "microsoft-office-yammer.svg",
+        "type": "icon",
+        "source": "$geticon"
+      },
+      {
+        "filename": "yammer.svg",
+        "type": "icon",
+        "source": "$gb"
+      }
+    ]
+  },
+  {
+    "name": "Microsoft Office",
+    "id": "microsoft-office",
+    "tags": [
+      "microsoft office",
+      "microsoft",
+      "office"
+    ],
+    "files": [
+      {
+        "filename": "microsoft-office.svg",
+        "type": "icon",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "Qzone",
+    "id": "qzone",
+    "aliases": [
+      "QQ空间"
+    ],
+    "tags": [
+      "china",
+      "website"
+    ],
+    "files": [
+      {
+        "filename": "qzone.svg",
+        "type": "icon",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "Snapchat",
+    "id": "snapchat",
+    "tags": [
+      "instant messenger"
+    ],
+    "files": [
+      {
+        "filename": "snapchat.svg",
+        "type": "icon",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "Thunderbird",
+    "id": "thunderbird",
+    "aliases": [
+      "Mozilla Thunderbird"
+    ],
+    "tags": [
+      "email client"
+    ],
+    "files": [
+      {
+        "filename": "thunderbird.svg",
+        "type": "icon",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "Viber",
+    "id": "viber",
+    "aliases": [
+      "Rakuten Viber"
+    ],
+    "tags": [
+      "instant messenger"
+    ],
+    "files": [
+      {
+        "filename": "viber.svg",
+        "type": "icon",
+        "source": "$geticon"
+      },
+      {
+        "filename": "viber-logo.svg",
+        "type": "logo",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "Zhihu",
+    "id": "zhihu",
+    "aliases": [
+      "知乎"
+    ],
+    "tags": [
+      "china",
+      "website",
+      "question-and-answer"
+    ],
+    "files": [
+      {
+        "filename": "zhihu.svg",
+        "type": "icon",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "Zoom",
+    "id": "zoom",
+    "tags": [
+      "videoconference",
+      "instant messenger"
+    ],
+    "files": [
+      {
+        "filename": "zoom-icon.svg",
+        "type": "icon",
+        "source": "$geticon"
+      },
+      {
+        "filename": "zoom-logo.svg",
+        "type": "logo",
         "source": "$geticon"
       }
     ]

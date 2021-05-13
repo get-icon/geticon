@@ -22,10 +22,11 @@ const data = excelToJson({
     K: 'tag2',
     L: 'tag3',
     M: 'tag4',
+    N: 'tag5',
   },
 })
 
-const out = data.licenses.map(
+const out = data['2021-05-13'].map(
   ({
     name,
     id,
@@ -40,12 +41,13 @@ const out = data.licenses.map(
     tag2,
     tag3,
     tag4,
+    tag5,
   }) => ({
     name,
     id,
     aliases: [alias1, alias2, alias3, alias4].filter((a) => a),
     url,
-    tags: [tag1, tag2, tag3, tag4].filter((a) => a),
+    tags: [tag1, tag2, tag3, tag4, tag5].filter((a) => a),
     files: [file1, file2]
       .filter((a) => a)
       .map((f, i) => ({
