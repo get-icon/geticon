@@ -109,7 +109,7 @@ These programming languages / libraries / development tools / software packages 
 
 ## Icons
 
-1547 icon / logo images:
+1546 icon / logo images:
 
 * 78% are originally from [Gil Barbara's repo](https://github.com/gilbarbara/logos)
 * 22% are collected by Tom Chen or other contributors of geticon

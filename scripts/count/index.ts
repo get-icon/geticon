@@ -1,5 +1,6 @@
 import fs from 'fs'
-import { IconDataType } from '../types/data'
+import sources from '../../data/sources'
+import { IconDataType } from '../../data/types/icons'
 
 const icons: IconDataType = JSON.parse(fs.readFileSync('icons.json', 'utf8'))
 const srcs = icons
@@ -14,13 +15,11 @@ const srcs = icons
   .flat()
 
 console.log(`total images: ${srcs.length}`)
-console.log(
-  `gb sourced: ${
-    (srcs.filter((x) => x === '$gb').length / srcs.length) * 100
-  }%`,
-)
-console.log(
-  `gb sourced: ${
-    (srcs.filter((x) => x === '$geticon').length / srcs.length) * 100
-  }%`,
-)
+
+sources.forEach(({ id }) => {
+  console.log(
+    `${id} sourced: ${
+      (srcs.filter((x) => x === `$${id}`).length / srcs.length) * 100
+    }%`,
+  )
+})
