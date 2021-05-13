@@ -4237,7 +4237,12 @@
       {
         "filename": "facebook.svg",
         "type": "icon",
-        "source": "$gb"
+        "source": "$geticon"
+      },
+      {
+        "filename": "facebook-logo.svg",
+        "type": "icon",
+        "source": "$geticon"
       }
     ]
   },
@@ -5015,6 +5020,10 @@
   {
     "name": "Go",
     "id": "go",
+    "aliases": [
+      "Go Lang",
+      "Go Language"
+    ],
     "url": "https://golang.org/",
     "files": [
       {
@@ -6305,7 +6314,12 @@
       {
         "filename": "instagram-icon.svg",
         "type": "icon",
-        "source": "$gb"
+        "source": "$geticon"
+      },
+      {
+        "filename": "instagram-icon-monochrome.svg",
+        "type": "icon",
+        "source": "$gb:instagram-icon"
       },
       {
         "filename": "instagram.svg",
@@ -12885,7 +12899,7 @@
       {
         "filename": "twitter.svg",
         "type": "icon",
-        "source": "$gb"
+        "source": "$geticon"
       }
     ]
   },
@@ -12924,7 +12938,7 @@
     ]
   },
   {
-    "name": "ubuntu",
+    "name": "Ubuntu",
     "id": "ubuntu",
     "url": "https://www.ubuntu.com/",
     "files": [
