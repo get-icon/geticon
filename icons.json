@@ -5090,6 +5090,9 @@
   {
     "name": "Google 360 Suite",
     "id": "google-360suite",
+    "aliases": [
+      "360 Suite"
+    ],
     "url": "https://marketingplatform.google.com/about/enterprise/",
     "files": [
       {
@@ -5102,46 +5105,50 @@
   {
     "name": "Google Ads",
     "id": "google-ads",
-    "url": "https://ads.google.com/home/",
+    "aliases": [
+      "Google AdWords",
+      "AdWords",
+      "AdWord"
+    ],
+    "url": "https://ads.google.com/",
     "files": [
       {
-        "filename": "google-ads.svg",
+        "filename": "g-ads.svg",
         "type": "icon",
         "source": "$gb"
-      }
-    ]
-  },
-  {
-    "name": "Google AdSense",
-    "id": "google-adsense",
-    "url": "https://www.google.com/adsense/",
-    "files": [
+      },
       {
-        "filename": "google-adsense.svg",
-        "type": "icon",
-        "source": "$gb"
-      }
-    ]
-  },
-  {
-    "name": "Google AdWords",
-    "id": "google-adwords",
-    "url": "https://www.google.com/adwords/",
-    "files": [
-      {
-        "filename": "google-adwords.svg",
+        "filename": "g-adword.svg",
         "type": "icon",
         "source": "$geticon"
       }
     ]
   },
   {
+    "name": "Google AdSense",
+    "id": "google-adsense",
+    "aliases": [
+      "AdSense"
+    ],
+    "url": "https://www.google.com/adsense/",
+    "files": [
+      {
+        "filename": "g-adsense.svg",
+        "type": "icon",
+        "source": "$gb"
+      }
+    ]
+  },
+  {
     "name": "Google Analytics",
     "id": "google-analytics",
+    "aliases": [
+      "Analytics"
+    ],
     "url": "https://www.google.com/analytics/",
     "files": [
       {
-        "filename": "google-analytics.svg",
+        "filename": "g-analytics.svg",
         "type": "icon",
         "source": "$gb"
       }
@@ -5174,6 +5181,9 @@
   {
     "name": "Google Cloud Functions",
     "id": "google-cloud-functions",
+    "aliases": [
+      "Cloud Functions"
+    ],
     "url": "https://cloud.google.com/functions/",
     "files": [
       {
@@ -5186,6 +5196,9 @@
   {
     "name": "Google Cloud Platform",
     "id": "google-cloud-platform",
+    "aliases": [
+      "Cloud Platform"
+    ],
     "url": "https://cloud.google.com/gcp/",
     "files": [
       {
@@ -5198,6 +5211,9 @@
   {
     "name": "Google Cloud Run",
     "id": "google-cloud-run",
+    "aliases": [
+      "Cloud Run"
+    ],
     "url": "https://cloud.google.com/run/",
     "files": [
       {
@@ -5210,6 +5226,9 @@
   {
     "name": "Google Data Studio",
     "id": "google-data-studio",
+    "aliases": [
+      "Data Studio"
+    ],
     "url": "https://marketingplatform.google.com/about/data-studio/",
     "files": [
       {
@@ -5251,6 +5270,9 @@
   {
     "name": "Google G Suite",
     "id": "google-gsuite",
+    "aliases": [
+      "G Suite"
+    ],
     "url": "https://gsuite.google.com/",
     "files": [
       {
@@ -5263,6 +5285,9 @@
   {
     "name": "Google Gmail",
     "id": "google-gmail",
+    "aliases": [
+      "Gmail"
+    ],
     "url": "https://gmail.com/",
     "files": [
       {
@@ -5287,6 +5312,9 @@
   {
     "name": "Google Marketing Platform",
     "id": "google-marketing-platform",
+    "aliases": [
+      "Marketing Platform"
+    ],
     "url": "https://marketingplatform.google.com/about/",
     "files": [
       {
@@ -5369,10 +5397,13 @@
   {
     "name": "Google Tag Manager",
     "id": "google-tag-manager",
+    "aliases": [
+      "Tag Manager"
+    ],
     "url": "https://marketingplatform.google.com/about/tag-manager/",
     "files": [
       {
-        "filename": "google-tag-manager.svg",
+        "filename": "g-tag-manager.svg",
         "type": "icon",
         "source": "$gb"
       }
