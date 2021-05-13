@@ -48,6 +48,13 @@
   resolved "https://registry.yarnpkg.com/@types/color-name/-/color-name-1.1.1.tgz#1c1261bbeaa10a8055bbc5d8ab84b7b2afc846a0"
   integrity sha512-rr+OQyAjxze7GgWrSaJwydHStIhHq2lvY3BOC2Mj7KnzI7XK0Uw1TOOdI9lDoajEbSWLiYgoo4f1R51erQfhPQ==
 
+"@types/convert-excel-to-json@^1.7.0":
+  version "1.7.0"
+  resolved "https://registry.yarnpkg.com/@types/convert-excel-to-json/-/convert-excel-to-json-1.7.0.tgz#6dafed3c564b948b0f938601dc6ef231c00d6ec2"
+  integrity sha512-a64gWsxoRYuUjJz/wf6qMtsxqQtoEcrH1V7MkWDdhf/xfl8a/6yUk9hk58pVoKcRe+n/KCCVuz+8TfNXiHxniw==
+  dependencies:
+    "@types/node" "*"
+
 "@types/node-fetch@^2.5.10":
   version "2.5.10"
   resolved "https://registry.yarnpkg.com/@types/node-fetch/-/node-fetch-2.5.10.tgz#9b4d4a0425562f9fcea70b12cb3fcdd946ca8132"

@@ -2,11 +2,12 @@
   "compilerOptions": {
     "sourceMap": true,
     "target": "es6",
+    "lib": ["es2019"],
     "module": "commonjs",
     "strict": true,
     "moduleResolution": "node",
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true
   },
-  "include": ["**/*"],
+  "include": ["**/*"]
 }

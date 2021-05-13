@@ -1,10 +1,12 @@
-const excelToJson = require('convert-excel-to-json')
-const fs = require('fs')
+import excelToJson from 'convert-excel-to-json'
+import fs from 'fs'
+import path from 'path'
 
-const sourceFile = './scripts/source.xlsx'
+const sourceFile = 'source.xlsx'
+const outFile = 'out.json'
 
 const data = excelToJson({
-  sourceFile,
+  sourceFile: path.join(__dirname, sourceFile),
   header: {
     rows: 1,
   },
@@ -26,7 +28,20 @@ const data = excelToJson({
   },
 })
 
-const out = data['2021-05-13'].map(
+type IconDataItemTemp = {
+  name: any
+  id: any
+  aliases?: any[]
+  url: any
+  tags?: any[]
+  files: {
+    filename: any
+    type: string
+    source: string
+  }[]
+}
+
+const out: IconDataItemTemp[] = data['2021-05-13'].map(
   ({
     name,
     id,
@@ -59,13 +74,13 @@ const out = data['2021-05-13'].map(
 )
 
 out.forEach((v, i) => {
-  if (v.aliases.length === 0) {
+  if (v.aliases && v.aliases.length === 0) {
     delete out[i].aliases
   }
-  if (v.tags.length === 0) {
+  if (v.tags && v.tags.length === 0) {
     delete out[i].tags
   }
 })
 
 const resultJson = JSON.stringify(out, null, 2)
-fs.writeFileSync(`./scripts/out.json`, resultJson)
+fs.writeFileSync(path.join(__dirname, outFile), resultJson)

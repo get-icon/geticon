@@ -6,14 +6,15 @@
   "scripts": {
     "start": "node index.js",
     "start:deno": "deno run --allow-read --allow-write index.js",
-    "dev:gen": "node scripts/gen.js",
+    "dev:excel2json": "ts-node scripts/excel2json",
     "dev:geturls": "ts-node scripts/getUrls",
-    "dev:test": "ts-node scripts/test.ts",
-    "dev:count": "node scripts/count.js",
-    "dev:minifysrc": "svgo -f ./icons -o ./output"
+    "dev:check": "ts-node scripts/check",
+    "dev:count": "ts-node scripts/count",
+    "dev:optsvg": "svgo -f ./icons -o ./output"
   },
   "dependencies": {},
   "devDependencies": {
+    "@types/convert-excel-to-json": "^1.7.0",
     "@types/node": "^15.0.3",
     "@types/node-fetch": "^2.5.10",
     "cheerio": "^1.0.0-rc.9",
