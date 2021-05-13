@@ -3445,7 +3445,12 @@
       {
         "filename": "discord.svg",
         "type": "icon",
-        "source": "$gb"
+        "source": "$geticon"
+      },
+      {
+        "filename": "discord-logo.svg",
+        "type": "logo",
+        "source": "$geticon"
       }
     ]
   },
@@ -4241,7 +4246,7 @@
       },
       {
         "filename": "facebook-logo.svg",
-        "type": "icon",
+        "type": "logo",
         "source": "$geticon"
       }
     ]
@@ -12887,7 +12892,12 @@
       {
         "filename": "twitch.svg",
         "type": "icon",
-        "source": "$gb"
+        "source": "$geticon"
+      },
+      {
+        "filename": "twitch-logo.svg",
+        "type": "logo",
+        "source": "$geticon"
       }
     ]
   },
