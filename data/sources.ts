@@ -13,6 +13,12 @@ const sources: SourceDataType = [
     license: 'CC0',
     base_url: 'https://github.com/get-icon/geticon/?????',
   },
+  {
+    id: 'vlz',
+    desc: 'Vector Logo Zone collected images',
+    license: 'various',
+    base_url: 'https://github.com/VectorLogoZone/vectorlogozone/tree/gh-pages/www/logos',
+  },
 ]
 
 export default sources

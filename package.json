@@ -8,8 +8,11 @@
     "start:deno": "deno run --allow-read --allow-write index.js",
     "dev:excel2json": "ts-node scripts/excel2json",
     "dev:geturls": "ts-node scripts/getUrls",
+    "dev:getfilenames": "ts-node scripts/getfilenames",
     "dev:check": "ts-node scripts/check",
     "dev:count": "ts-node scripts/count",
+    "dev:compare": "ts-node scripts/vlz/compare",
+    "dev:vlz": "ts-node scripts/vlz",
     "dev:optsvg": "svgo -f ./icons -o ./output"
   },
   "dependencies": {},
@@ -21,7 +24,8 @@
     "node-fetch": "^2.6.1",
     "svgo": "^2.3.0",
     "ts-node": "^9.1.1",
-    "typescript": "^4.2.4"
+    "typescript": "^4.2.4",
+    "yaml": "^1.10.2"
   },
   "optionalDependencies": {
     "convert-excel-to-json": "^1.7.0",

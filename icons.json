@@ -203,7 +203,7 @@
   },
   {
     "name": "Amazon Chime",
-    "id": "amazon-chime",
+    "id": "amazonchime",
     "url": "https://chime.aws/",
     "files": [
       {
@@ -215,7 +215,7 @@
   },
   {
     "name": "Amazon Connect",
-    "id": "amazon-connect",
+    "id": "amazonconnect",
     "url": "https://aws.amazon.com/connect/",
     "files": [
       {
@@ -309,7 +309,7 @@
   },
   {
     "name": "Ant Design",
-    "id": "ant-design",
+    "id": "antdesign",
     "url": "https://ant.design/",
     "files": [
       {
@@ -333,7 +333,7 @@
   },
   {
     "name": "Apache Camel",
-    "id": "apache-camel",
+    "id": "apachecamel",
     "url": "https://camel.apache.org",
     "files": [
       {
@@ -345,7 +345,7 @@
   },
   {
     "name": "Apache CloudStack",
-    "id": "apache_cloudstack",
+    "id": "apachecloudstack",
     "url": "https://cloudstack.apache.org/",
     "files": [
       {
@@ -369,7 +369,7 @@
   },
   {
     "name": "api.ai",
-    "id": "api-ai",
+    "id": "apiai",
     "url": "https://api.ai/",
     "files": [
       {
@@ -530,7 +530,7 @@
   },
   {
     "name": "Apple iOS App Store",
-    "id": "apple-app-store",
+    "id": "appleappstore",
     "url": "https://www.apple.com/ios/app-store/",
     "files": [
       {
@@ -542,7 +542,7 @@
   },
   {
     "name": "Apple Pay",
-    "id": "apple-pay",
+    "id": "applepay",
     "url": "https://www.apple.com/apple-pay/",
     "files": [
       {
@@ -872,7 +872,7 @@
   },
   {
     "name": "AWS API Gateway",
-    "id": "aws-api-gateway",
+    "id": "awsapigateway",
     "aliases": [
       "API Gateway"
     ],
@@ -887,7 +887,7 @@
   },
   {
     "name": "AWS CloudFormation",
-    "id": "aws-cloudformation",
+    "id": "awscloudformation",
     "aliases": [
       "CloudFormation"
     ],
@@ -902,7 +902,7 @@
   },
   {
     "name": "AWS CloudFront",
-    "id": "aws-cloudfront",
+    "id": "awscloudfront",
     "aliases": [
       "CloudFront"
     ],
@@ -917,7 +917,7 @@
   },
   {
     "name": "AWS CloudSearch",
-    "id": "aws-cloudsearch",
+    "id": "awscloudsearch",
     "aliases": [
       "CloudSearch"
     ],
@@ -932,7 +932,7 @@
   },
   {
     "name": "AWS CloudWatch",
-    "id": "aws-cloudwatch",
+    "id": "awscloudwatch",
     "aliases": [
       "CloudWatch"
     ],
@@ -947,7 +947,7 @@
   },
   {
     "name": "AWS CodeDeploy",
-    "id": "aws-codedeploy",
+    "id": "awscodedeploy",
     "aliases": [
       "CodeDeploy"
     ],
@@ -962,7 +962,7 @@
   },
   {
     "name": "AWS Cognito",
-    "id": "aws-cognito",
+    "id": "awscognito",
     "aliases": [
       "Cognito"
     ],
@@ -977,7 +977,7 @@
   },
   {
     "name": "AWS DynamoDB",
-    "id": "aws-dynamodb",
+    "id": "awsdynamodb",
     "aliases": [
       "DynamoDB"
     ],
@@ -992,7 +992,7 @@
   },
   {
     "name": "AWS EC2",
-    "id": "aws-ec2",
+    "id": "awsec2",
     "aliases": [
       "AWS EC2 (Elastic Compute Cloud)",
       "EC2",
@@ -1009,7 +1009,7 @@
   },
   {
     "name": "AWS Elastic Cache",
-    "id": "aws-elastic-cache",
+    "id": "awselasticcache",
     "aliases": [
       "Elastic Cache"
     ],
@@ -1024,7 +1024,7 @@
   },
   {
     "name": "AWS Glacier",
-    "id": "aws-glacier",
+    "id": "awsglacier",
     "aliases": [
       "Glacier"
     ],
@@ -1039,7 +1039,7 @@
   },
   {
     "name": "AWS IAM",
-    "id": "aws-iam",
+    "id": "awsiam",
     "aliases": [
       "AWS IAM (Identity and Access Management)",
       "IAM",
@@ -1056,7 +1056,7 @@
   },
   {
     "name": "AWS Kinesis",
-    "id": "aws-kinesis",
+    "id": "awskinesis",
     "aliases": [
       "Kinesis"
     ],
@@ -1071,7 +1071,7 @@
   },
   {
     "name": "AWS Lambda",
-    "id": "aws-lambda",
+    "id": "awslambda",
     "aliases": [
       "Lambda"
     ],
@@ -1086,7 +1086,7 @@
   },
   {
     "name": "AWS Mobile Hub",
-    "id": "aws-mobilehub",
+    "id": "awsmobilehub",
     "aliases": [
       "Mobile Hub"
     ],
@@ -1101,7 +1101,7 @@
   },
   {
     "name": "AWS Opworks",
-    "id": "aws-opsworks",
+    "id": "awsopsworks",
     "aliases": [
       "Opworks"
     ],
@@ -1116,7 +1116,7 @@
   },
   {
     "name": "AWS QuickSight",
-    "id": "aws-quicksight",
+    "id": "awsquicksight",
     "aliases": [
       "QuickSight"
     ],
@@ -1131,7 +1131,7 @@
   },
   {
     "name": "AWS RDS",
-    "id": "aws-rds",
+    "id": "awsrds",
     "aliases": [
       "AWS RDS (Relational Database Service)",
       "RDS",
@@ -1148,7 +1148,7 @@
   },
   {
     "name": "AWS Route 53",
-    "id": "aws-route53",
+    "id": "awsroute53",
     "aliases": [
       "Route 53"
     ],
@@ -1163,7 +1163,7 @@
   },
   {
     "name": "AWS S3",
-    "id": "aws-s3",
+    "id": "awss3",
     "aliases": [
       "AWS S3 (Simple Storage Service)",
       "S3",
@@ -1180,7 +1180,7 @@
   },
   {
     "name": "AWS SES",
-    "id": "aws-ses",
+    "id": "awsses",
     "aliases": [
       "AWS SES (Simple Email Service)",
       "SES",
@@ -1197,7 +1197,7 @@
   },
   {
     "name": "AWS SNS",
-    "id": "aws-sns",
+    "id": "awssns",
     "aliases": [
       "AWS SNS (Simple Notification Service)",
       "SNS",
@@ -1214,7 +1214,7 @@
   },
   {
     "name": "AWS SQS",
-    "id": "aws-sqs",
+    "id": "awssqs",
     "aliases": [
       "AWS SQS (Simple Queue Service)",
       "SQS",
@@ -1231,7 +1231,7 @@
   },
   {
     "name": "AWS WAF",
-    "id": "aws-waf",
+    "id": "awswaf",
     "aliases": [
       "AWS WAF (Web Application Firewall)",
       "WAF",
@@ -1289,7 +1289,7 @@
   },
   {
     "name": "Baker Street",
-    "id": "baker-street",
+    "id": "bakerstreet",
     "url": "https://bakerstreet.io/",
     "files": [
       {
@@ -1936,7 +1936,7 @@
   },
   {
     "name": "C#",
-    "id": "c-sharp",
+    "id": "csharp",
     "aliases": [
       "C Sharp"
     ],
@@ -1951,7 +1951,7 @@
   },
   {
     "name": "C++",
-    "id": "c-plusplus",
+    "id": "cplusplus",
     "url": "https://isocpp.org/",
     "files": [
       {
@@ -3039,7 +3039,7 @@
   },
   {
     "name": "Cross Browser Testing",
-    "id": "cross-browser-testing",
+    "id": "crossbrowsertesting",
     "url": "https://crossbrowsertesting.com/",
     "files": [
       {
@@ -3075,7 +3075,7 @@
   },
   {
     "name": "CSS3",
-    "id": "css-3",
+    "id": "css3",
     "aliases": [
       "css"
     ],
@@ -3208,7 +3208,7 @@
   },
   {
     "name": "Database Labs",
-    "id": "database-labs",
+    "id": "databaselabs",
     "url": "https://www.databaselabs.io/",
     "files": [
       {
@@ -3555,7 +3555,7 @@
   },
   {
     "name": "Dojo Toolkit",
-    "id": "dojo",
+    "id": "dojotoolkit",
     "url": "https://dojotoolkit.org/",
     "files": [
       {
@@ -3845,7 +3845,7 @@
   },
   {
     "name": "Elemental UI",
-    "id": "elemental-ui",
+    "id": "elementalui",
     "url": "https://elemental-ui.com/",
     "files": [
       {
@@ -3958,7 +3958,7 @@
   },
   {
     "name": "Engine Yard",
-    "id": "engine-yard",
+    "id": "engineyard",
     "url": "https://www.engineyard.com/",
     "files": [
       {
@@ -4062,7 +4062,7 @@
   },
   {
     "name": "Eta",
-    "id": "eta-lang",
+    "id": "etalang",
     "url": "https://eta-lang.org/",
     "files": [
       {
@@ -4212,7 +4212,7 @@
   },
   {
     "name": "Fabric",
-    "id": "fabric_io",
+    "id": "fabricio",
     "url": "https://get.fabric.io/",
     "files": [
       {
@@ -4386,7 +4386,7 @@
   },
   {
     "name": "Flat UI",
-    "id": "flat-ui",
+    "id": "flatui",
     "url": "https://designmodo.github.io/Flat-UI/",
     "files": [
       {
@@ -4432,7 +4432,7 @@
   },
   {
     "name": "flexible.gs",
-    "id": "flexible-gs",
+    "id": "flexiblegs",
     "url": "https://flexible.gs/",
     "files": [
       {
@@ -4600,7 +4600,7 @@
   },
   {
     "name": "Font Awesome",
-    "id": "font-awesome",
+    "id": "fontawesome",
     "url": "https://fontawesome.com/",
     "files": [
       {
@@ -4759,7 +4759,7 @@
   },
   {
     "name": "GameAnalytics",
-    "id": "game-analytics",
+    "id": "gameanalytics",
     "url": "https://gameanalytics.com/",
     "files": [
       {
@@ -4817,7 +4817,7 @@
   },
   {
     "name": "Get Satisfaction",
-    "id": "get-satisfaction",
+    "id": "getsatisfaction",
     "url": "https://getsatisfaction.com/",
     "files": [
       {
@@ -5091,7 +5091,7 @@
   },
   {
     "name": "Google 360 Suite",
-    "id": "google-360suite",
+    "id": "google360suite",
     "aliases": [
       "360 Suite"
     ],
@@ -5106,7 +5106,7 @@
   },
   {
     "name": "Google Ads",
-    "id": "google-ads",
+    "id": "googleads",
     "aliases": [
       "Google AdWords",
       "AdWords",
@@ -5128,7 +5128,7 @@
   },
   {
     "name": "Google AdSense",
-    "id": "google-adsense",
+    "id": "googleadsense",
     "aliases": [
       "AdSense"
     ],
@@ -5143,7 +5143,7 @@
   },
   {
     "name": "Google Analytics",
-    "id": "google-analytics",
+    "id": "googleanalytics",
     "aliases": [
       "Analytics"
     ],
@@ -5158,7 +5158,7 @@
   },
   {
     "name": "Google Calendar",
-    "id": "google-calendar",
+    "id": "googlecalendar",
     "url": "https://www.google.com/calendar/about/",
     "files": [
       {
@@ -5170,7 +5170,7 @@
   },
   {
     "name": "Google Cloud",
-    "id": "google-cloud",
+    "id": "googlecloud",
     "url": "https://cloud.google.com/",
     "files": [
       {
@@ -5182,7 +5182,7 @@
   },
   {
     "name": "Google Cloud Functions",
-    "id": "google-cloud-functions",
+    "id": "googlecloudfunctions",
     "aliases": [
       "Cloud Functions"
     ],
@@ -5197,7 +5197,7 @@
   },
   {
     "name": "Google Cloud Platform",
-    "id": "google-cloud-platform",
+    "id": "googlecloudplatform",
     "aliases": [
       "Cloud Platform"
     ],
@@ -5212,7 +5212,7 @@
   },
   {
     "name": "Google Cloud Run",
-    "id": "google-cloud-run",
+    "id": "googlecloudrun",
     "aliases": [
       "Cloud Run"
     ],
@@ -5227,7 +5227,7 @@
   },
   {
     "name": "Google Data Studio",
-    "id": "google-data-studio",
+    "id": "googledatastudio",
     "aliases": [
       "Data Studio"
     ],
@@ -5242,7 +5242,7 @@
   },
   {
     "name": "Google Developers",
-    "id": "google-developers",
+    "id": "googledevelopers",
     "url": "https://developers.google.com/",
     "files": [
       {
@@ -5259,7 +5259,7 @@
   },
   {
     "name": "Google Drive",
-    "id": "google-drive",
+    "id": "googledrive",
     "url": "https://www.google.com/drive/",
     "files": [
       {
@@ -5271,7 +5271,7 @@
   },
   {
     "name": "Google G Suite",
-    "id": "google-gsuite",
+    "id": "googlegsuite",
     "aliases": [
       "G Suite"
     ],
@@ -5286,7 +5286,7 @@
   },
   {
     "name": "Google Gmail",
-    "id": "google-gmail",
+    "id": "googlegmail",
     "aliases": [
       "Gmail"
     ],
@@ -5301,7 +5301,7 @@
   },
   {
     "name": "Google Inbox",
-    "id": "google-inbox",
+    "id": "googleinbox",
     "url": "https://www.google.com/inbox/",
     "files": [
       {
@@ -5313,7 +5313,7 @@
   },
   {
     "name": "Google Marketing Platform",
-    "id": "google-marketing-platform",
+    "id": "googlemarketingplatform",
     "aliases": [
       "Marketing Platform"
     ],
@@ -5328,7 +5328,7 @@
   },
   {
     "name": "Google Meet",
-    "id": "google-meet",
+    "id": "googlemeet",
     "url": "https://meet.google.com/",
     "files": [
       {
@@ -5340,7 +5340,7 @@
   },
   {
     "name": "Google Optimize",
-    "id": "google-optimize",
+    "id": "googleoptimize",
     "url": "https://marketingplatform.google.com/about/optimize/",
     "files": [
       {
@@ -5352,7 +5352,7 @@
   },
   {
     "name": "Google Pay",
-    "id": "google-pay",
+    "id": "googlepay",
     "url": "https://pay.google.com/about/",
     "files": [
       {
@@ -5369,7 +5369,7 @@
   },
   {
     "name": "Google Photos",
-    "id": "google-photos",
+    "id": "googlephotos",
     "url": "https://photos.google.com/",
     "files": [
       {
@@ -5381,7 +5381,7 @@
   },
   {
     "name": "Google Play",
-    "id": "google-play",
+    "id": "googleplay",
     "url": "https://play.google.com/",
     "files": [
       {
@@ -5398,7 +5398,7 @@
   },
   {
     "name": "Google Tag Manager",
-    "id": "google-tag-manager",
+    "id": "googletagmanager",
     "aliases": [
       "Tag Manager"
     ],
@@ -5413,7 +5413,7 @@
   },
   {
     "name": "Google Wallet",
-    "id": "google-wallet",
+    "id": "googlewallet",
     "url": "https://pay.google.com/about/",
     "files": [
       {
@@ -5699,7 +5699,7 @@
   },
   {
     "name": "HackerOne",
-    "id": "hacker-one",
+    "id": "hackerone",
     "url": "https://hackerone.com/",
     "files": [
       {
@@ -5916,7 +5916,7 @@
   },
   {
     "name": "Heroku Redis",
-    "id": "heroku-redis",
+    "id": "herokuredis",
     "url": "https://www.heroku.com/redis",
     "files": [
       {
@@ -6036,7 +6036,7 @@
   },
   {
     "name": "Hosted Graphite",
-    "id": "hosted-graphite",
+    "id": "hostedgraphite",
     "url": "https://www.hostedgraphite.com/",
     "files": [
       {
@@ -6077,7 +6077,7 @@
   },
   {
     "name": "HTML5",
-    "id": "html-5",
+    "id": "html5",
     "aliases": [
       "html"
     ],
@@ -6092,7 +6092,7 @@
   },
   {
     "name": "HTML5 Boilerplate",
-    "id": "html5-boilerplate",
+    "id": "html5boilerplate",
     "url": "https://html5boilerplate.com/",
     "files": [
       {
@@ -6323,7 +6323,7 @@
   },
   {
     "name": "IntelliJ IDEA",
-    "id": "intellij-idea",
+    "id": "intellijidea",
     "url": "https://www.jetbrains.com/idea/",
     "files": [
       {
@@ -6674,7 +6674,7 @@
   },
   {
     "name": "jQuery Mobile",
-    "id": "jquery-mobile",
+    "id": "jquerymobile",
     "url": "https://jquerymobile.com/",
     "files": [
       {
@@ -6927,7 +6927,7 @@
   },
   {
     "name": "Khan Academy",
-    "id": "khan_academy",
+    "id": "khanacademy",
     "url": "https://www.khanacademy.org/",
     "files": [
       {
@@ -7228,7 +7228,7 @@
   },
   {
     "name": "Livewire",
-    "id": "live-wire",
+    "id": "livewire",
     "aliases": [
       "Livewire",
       "Laravel-Livewire"
@@ -7439,7 +7439,7 @@
   },
   {
     "name": "Linux Mint",
-    "id": "linux-mint",
+    "id": "linuxmint",
     "url": "https://www.linuxmint.com/",
     "files": [
       {
@@ -7645,7 +7645,7 @@
   },
   {
     "name": "Lucene.net",
-    "id": "lucene_net",
+    "id": "lucenenet",
     "url": "https://lucenenet.apache.org/",
     "files": [
       {
@@ -7869,7 +7869,7 @@
   },
   {
     "name": "MAPS.ME",
-    "id": "maps-me",
+    "id": "mapsme",
     "url": "https://maps.me/",
     "files": [
       {
@@ -7975,7 +7975,7 @@
   },
   {
     "name": "Material UI",
-    "id": "material-ui",
+    "id": "materialui",
     "url": "https://material-ui.com/",
     "files": [
       {
@@ -8233,7 +8233,7 @@
   },
   {
     "name": "Microsoft Edge",
-    "id": "microsoft-edge",
+    "id": "microsoftedge",
     "aliases": [
       "Edge"
     ],
@@ -8332,7 +8332,7 @@
   },
   {
     "name": "mLab",
-    "id": "mLab",
+    "id": "mlab",
     "url": "https://mlab.com/",
     "files": [
       {
@@ -8722,7 +8722,7 @@
   },
   {
     "name": "New Relic",
-    "id": "new-relic",
+    "id": "newrelic",
     "url": "https://newrelic.com/",
     "files": [
       {
@@ -8804,7 +8804,7 @@
   },
   {
     "name": "Node-Sass",
-    "id": "node-sass",
+    "id": "nodesass",
     "url": "https://github.com/sass/node-sass",
     "files": [
       {
@@ -9034,7 +9034,7 @@
   },
   {
     "name": "Octopus Deploy",
-    "id": "octopus-deploy",
+    "id": "octopusdeploy",
     "url": "https://octopus.com/",
     "files": [
       {
@@ -9118,7 +9118,7 @@
   },
   {
     "name": "Open Graph",
-    "id": "open-graph",
+    "id": "opengraph",
     "url": "https://ogp.me/",
     "files": [
       {
@@ -9505,7 +9505,7 @@
   },
   {
     "name": "Perf Rocks",
-    "id": "perf-rocks",
+    "id": "perfrocks",
     "url": "https://perf.rocks/",
     "files": [
       {
@@ -9564,18 +9564,6 @@
       {
         "filename": "phonegap-bot.svg",
         "type": "logo",
-        "source": "$gb"
-      }
-    ]
-  },
-  {
-    "name": "PHP",
-    "id": "php",
-    "url": "https://php.net/",
-    "files": [
-      {
-        "filename": "php.svg",
-        "type": "icon",
         "source": "$gb"
       }
     ]
@@ -9666,7 +9654,7 @@
   },
   {
     "name": "Pivotal Tracker",
-    "id": "pivotal_tracker",
+    "id": "pivotaltracker",
     "url": "https://www.pivotaltracker.com/",
     "files": [
       {
@@ -9719,7 +9707,7 @@
   },
   {
     "name": "Plastic SCM",
-    "id": "plastic-scm",
+    "id": "plasticscm",
     "url": "https://www.plasticscm.com/",
     "files": [
       {
@@ -9834,6 +9822,11 @@
         "filename": "postgresql.svg",
         "type": "icon",
         "source": "$gb"
+      },
+      {
+        "filename": "postgresql-logo.svg",
+        "type": "logo",
+        "source": "$geticon"
       }
     ]
   },
@@ -10164,7 +10157,7 @@
   },
   {
     "name": "Puppy Linux",
-    "id": "puppy-linux",
+    "id": "puppylinux",
     "url": "https://puppylinux.org/",
     "files": [
       {
@@ -10325,7 +10318,7 @@
   },
   {
     "name": "R",
-    "id": "r-lang",
+    "id": "rlang",
     "url": "https://www.r-project.org/",
     "files": [
       {
@@ -10431,7 +10424,7 @@
   },
   {
     "name": "Raspberry Pi",
-    "id": "raspberry-pi",
+    "id": "raspberrypi",
     "url": "https://www.raspberrypi.org/",
     "files": [
       {
@@ -10470,7 +10463,7 @@
   },
   {
     "name": "React Native",
-    "id": "react-native",
+    "id": "reactnative",
     "url": "https://reactnative.dev/",
     "files": [
       {
@@ -10482,7 +10475,7 @@
   },
   {
     "name": "React Styleguidist",
-    "id": "react-styleguidist",
+    "id": "reactstyleguidist",
     "url": "https://react-styleguidist.js.org/",
     "files": [
       {
@@ -10494,7 +10487,7 @@
   },
   {
     "name": "React Router",
-    "id": "react-router",
+    "id": "reactrouter",
     "url": "https://github.com/rackt/react-router",
     "files": [
       {
@@ -10574,7 +10567,7 @@
   },
   {
     "name": "Recast.AI",
-    "id": "recast.ai",
+    "id": "recastai",
     "url": "https://recast.ai/",
     "files": [
       {
@@ -10668,7 +10661,7 @@
   },
   {
     "name": "redux-observable",
-    "id": "redux-observable",
+    "id": "reduxobservable",
     "url": "https://github.com/redux-observable/redux-observable",
     "files": [
       {
@@ -10680,7 +10673,7 @@
   },
   {
     "name": "redux-saga",
-    "id": "redux-saga",
+    "id": "reduxsaga",
     "url": "https://redux-saga.js.org/",
     "files": [
       {
@@ -10764,7 +10757,7 @@
   },
   {
     "name": "rest.li",
-    "id": "rest-li",
+    "id": "restli",
     "url": "https://github.com/linkedin/rest.li",
     "files": [
       {
@@ -10824,7 +10817,7 @@
   },
   {
     "name": "RocketChat",
-    "id": "rocket-chat",
+    "id": "rocketchat",
     "url": "https://rocket.chat/",
     "files": [
       {
@@ -10969,7 +10962,7 @@
   },
   {
     "name": "RunAbove",
-    "id": "run-above",
+    "id": "runabove",
     "url": "https://www.runabove.com/",
     "files": [
       {
@@ -11125,7 +11118,7 @@
   },
   {
     "name": "SassDoc",
-    "id": "sass-doc",
+    "id": "sassdoc",
     "url": "https://sassdoc.com/",
     "files": [
       {
@@ -11201,18 +11194,6 @@
     ]
   },
   {
-    "name": "section.io",
-    "id": "sectionio",
-    "url": "https://www.section.io/",
-    "files": [
-      {
-        "filename": "sectionio.svg",
-        "type": "icon",
-        "source": "$geticon"
-      }
-    ]
-  },
-  {
     "name": "Segment",
     "id": "segment",
     "url": "https://segment.com/",
@@ -11243,7 +11224,7 @@
   },
   {
     "name": "Semantic UI",
-    "id": "semantic-ui",
+    "id": "semanticui",
     "url": "https://semantic-ui.com/",
     "files": [
       {
@@ -11255,25 +11236,13 @@
   },
   {
     "name": "Semantic Web",
-    "id": "semantic-web",
+    "id": "semanticweb",
     "url": "https://www.w3.org/standards/semanticweb/",
     "files": [
       {
         "filename": "semantic-web.svg",
         "type": "icon",
         "source": "$gb"
-      }
-    ]
-  },
-  {
-    "name": "Semaphore",
-    "id": "semaphore",
-    "url": "https://semaphoreci.com/",
-    "files": [
-      {
-        "filename": "semaphore.svg",
-        "type": "icon",
-        "source": "$geticon"
       }
     ]
   },
@@ -11633,7 +11602,7 @@
   },
   {
     "name": "Snap.svg",
-    "id": "snap-svg",
+    "id": "snapsvg",
     "url": "https://snapsvg.io/",
     "files": [
       {
@@ -11669,7 +11638,7 @@
   },
   {
     "name": "Socket.io",
-    "id": "socket_io",
+    "id": "socketio",
     "url": "https://socket.io/",
     "files": [
       {
@@ -11818,18 +11787,6 @@
     "files": [
       {
         "filename": "speedcurve.svg",
-        "type": "icon",
-        "source": "$gb"
-      }
-    ]
-  },
-  {
-    "name": "Spinnaker",
-    "id": "spinnaker",
-    "url": "spinnaker",
-    "files": [
-      {
-        "filename": "spinnaker.svg",
         "type": "icon",
         "source": "$gb"
       }
@@ -12710,7 +12667,7 @@
   },
   {
     "name": "Travis CI",
-    "id": "travis-ci",
+    "id": "travisci",
     "url": "https://travis-ci.org/",
     "files": [
       {
@@ -13108,7 +13065,7 @@
   },
   {
     "name": "UserTesting",
-    "id": "user-testing",
+    "id": "usertesting",
     "url": "https://www.usertesting.com/",
     "files": [
       {
@@ -13311,7 +13268,7 @@
   },
   {
     "name": "Visual Studio",
-    "id": "visual-studio",
+    "id": "visualstudio",
     "url": "https://visualstudio.microsoft.com/vs/",
     "files": [
       {
@@ -13323,7 +13280,7 @@
   },
   {
     "name": "Visual Studio Code",
-    "id": "visual-studio-code",
+    "id": "visualstudiocode",
     "aliases": [
       "VS Code",
       "VSCode"
@@ -13339,7 +13296,7 @@
   },
   {
     "name": "Visual Website Optimizer",
-    "id": "visual_website_optimizer",
+    "id": "visualwebsiteoptimizer",
     "url": "https://vwo.com/",
     "files": [
       {
@@ -13737,7 +13694,7 @@
   },
   {
     "name": "Windows",
-    "id": "microsoft-windows",
+    "id": "microsoftwindows",
     "url": "https://www.microsoft.com/windows",
     "files": [
       {
@@ -13884,7 +13841,7 @@
   },
   {
     "name": "X-Ray Goggles",
-    "id": "x-ray-goggles",
+    "id": "xraygoggles",
     "url": "https://webmaker.org/goggles",
     "files": [
       {
@@ -13985,7 +13942,7 @@
   },
   {
     "name": "Yandex.ru",
-    "id": "yandex-ru",
+    "id": "yandexru",
     "url": "https://www.yandex.ru/",
     "files": [
       {
@@ -14120,7 +14077,7 @@
   },
   {
     "name": "Zend Framework",
-    "id": "zend-framework",
+    "id": "zendframework",
     "url": "https://framework.zend.com/",
     "files": [
       {
@@ -14270,7 +14227,7 @@
   },
   {
     "name": "Adobe Acrobat",
-    "id": "adobe-acrobat",
+    "id": "adobeacrobat",
     "aliases": [
       "Acrobat",
       "Acrobat Reader",
@@ -14288,7 +14245,7 @@
   },
   {
     "name": "Adobe Aero",
-    "id": "adobe-aero",
+    "id": "adobeaero",
     "url": "https://www.adobe.com/products/aero.html",
     "files": [
       {
@@ -14300,7 +14257,7 @@
   },
   {
     "name": "Adobe After Effects",
-    "id": "adobe-after-effects",
+    "id": "adobeaftereffects",
     "aliases": [
       "After Effects",
       "Adobe AfterEffects",
@@ -14317,7 +14274,7 @@
   },
   {
     "name": "Adobe Animate",
-    "id": "adobe-animate",
+    "id": "adobeanimate",
     "aliases": [
       "Animate"
     ],
@@ -14332,7 +14289,7 @@
   },
   {
     "name": "Adobe Audition",
-    "id": "adobe-audition",
+    "id": "adobeaudition",
     "url": "https://www.adobe.com/products/audition.html",
     "files": [
       {
@@ -14344,7 +14301,7 @@
   },
   {
     "name": "Adobe Bridge",
-    "id": "adobe-bridge",
+    "id": "adobebridge",
     "url": "https://www.adobe.com/products/bridge.html",
     "files": [
       {
@@ -14356,7 +14313,7 @@
   },
   {
     "name": "Adobe Character Animator",
-    "id": "adobe-character-animator",
+    "id": "adobecharacteranimator",
     "aliases": [
       "Character Animator"
     ],
@@ -14371,7 +14328,7 @@
   },
   {
     "name": "Adobe Creative Cloud",
-    "id": "adobe-creative-cloud",
+    "id": "adobecreativecloud",
     "aliases": [
       "Creative Cloud"
     ],
@@ -14386,7 +14343,7 @@
   },
   {
     "name": "Adobe Dimension",
-    "id": "adobe-dimension",
+    "id": "adobedimension",
     "url": "https://www.adobe.com/products/dimension.html",
     "files": [
       {
@@ -14398,7 +14355,7 @@
   },
   {
     "name": "Adobe Dreamweaver",
-    "id": "adobe-dreamweaver",
+    "id": "adobedreamweaver",
     "aliases": [
       "Dreamweaver"
     ],
@@ -14413,7 +14370,7 @@
   },
   {
     "name": "Adobe Flash",
-    "id": "adobe-flash",
+    "id": "adobeflash",
     "aliases": [
       "Flash",
       "Adobe Flash Player",
@@ -14430,7 +14387,7 @@
   },
   {
     "name": "Adobe Fonts",
-    "id": "adobe-fonts",
+    "id": "adobefonts",
     "url": "https://fonts.adobe.com/",
     "files": [
       {
@@ -14442,7 +14399,7 @@
   },
   {
     "name": "Adobe Fresco",
-    "id": "adobe-fresco",
+    "id": "adobefresco",
     "aliases": [
       "Fresco"
     ],
@@ -14457,7 +14414,7 @@
   },
   {
     "name": "Adobe Illustrator",
-    "id": "adobe-illustrator",
+    "id": "adobeillustrator",
     "aliases": [
       "Illustrator"
     ],
@@ -14472,7 +14429,7 @@
   },
   {
     "name": "Adobe InCopy",
-    "id": "adobe-incopy",
+    "id": "adobeincopy",
     "aliases": [
       "InCopy"
     ],
@@ -14487,7 +14444,7 @@
   },
   {
     "name": "Adobe InDesign",
-    "id": "adobe-indesign",
+    "id": "adobeindesign",
     "aliases": [
       "InDesign"
     ],
@@ -14502,7 +14459,7 @@
   },
   {
     "name": "Adobe Lightroom",
-    "id": "adobe-lightroom",
+    "id": "adobelightroom",
     "aliases": [
       "Lightroom"
     ],
@@ -14517,7 +14474,7 @@
   },
   {
     "name": "Adobe Lightroom Classic",
-    "id": "adobe-lightroom-classic",
+    "id": "adobelightroomclassic",
     "aliases": [
       "Lightroom Classic"
     ],
@@ -14532,7 +14489,7 @@
   },
   {
     "name": "Adobe Media Encoder",
-    "id": "adobe-media-encoder",
+    "id": "adobemediaencoder",
     "aliases": [
       "Media Encoder"
     ],
@@ -14547,7 +14504,7 @@
   },
   {
     "name": "Adobe Photoshop",
-    "id": "adobe-photoshop",
+    "id": "adobephotoshop",
     "aliases": [
       "Photoshop"
     ],
@@ -14562,7 +14519,7 @@
   },
   {
     "name": "Adobe Photoshop Camera",
-    "id": "adobe-photoshop-camera",
+    "id": "adobephotoshopcamera",
     "aliases": [
       "Photoshop Camera"
     ],
@@ -14577,7 +14534,7 @@
   },
   {
     "name": "Adobe Photoshop Express",
-    "id": "adobe-photoshop-express",
+    "id": "adobephotoshopexpress",
     "aliases": [
       "Photoshop Express"
     ],
@@ -14592,7 +14549,7 @@
   },
   {
     "name": "Adobe Portfolio",
-    "id": "adobe-portfolio",
+    "id": "adobeportfolio",
     "url": "https://portfolio.adobe.com/",
     "files": [
       {
@@ -14604,7 +14561,7 @@
   },
   {
     "name": "Adobe Prelude",
-    "id": "adobe-prelude",
+    "id": "adobeprelude",
     "aliases": [
       "Prelude"
     ],
@@ -14619,7 +14576,7 @@
   },
   {
     "name": "Adobe Premiere Pro",
-    "id": "adobe-premiere-pro",
+    "id": "adobepremierepro",
     "aliases": [
       "Premiere Pro",
       "Premiere"
@@ -14635,7 +14592,7 @@
   },
   {
     "name": "Adobe Premiere Rush",
-    "id": "adobe-premiere-rush",
+    "id": "adobepremiererush",
     "aliases": [
       "Premiere Rush"
     ],
@@ -14650,7 +14607,7 @@
   },
   {
     "name": "Adobe Spark",
-    "id": "adobe-spark",
+    "id": "adobespark",
     "url": "https://www.adobe.com/express/",
     "files": [
       {
@@ -14662,7 +14619,7 @@
   },
   {
     "name": "Adobe Stock",
-    "id": "adobe-stock",
+    "id": "adobestock",
     "url": "https://stock.adobe.com/",
     "files": [
       {
@@ -14674,7 +14631,7 @@
   },
   {
     "name": "Adobe XD",
-    "id": "adobe-xd",
+    "id": "adobexd",
     "aliases": [
       "XD"
     ],
@@ -14774,7 +14731,7 @@
   },
   {
     "name": "Sublime Text",
-    "id": "sublime-text",
+    "id": "sublimetext",
     "url": "https://www.sublimetext.com/",
     "files": [
       {
@@ -14958,7 +14915,7 @@
   },
   {
     "name": "Alibaba Cloud",
-    "id": "alibaba-cloud",
+    "id": "alibabacloud",
     "aliases": [
       "AliCloud"
     ],
@@ -14985,7 +14942,7 @@
   },
   {
     "name": "Day.js",
-    "id": "day-js",
+    "id": "dayjs",
     "aliases": [
       "day"
     ],
@@ -15012,7 +14969,7 @@
   },
   {
     "name": "Formik",
-    "id": "Formik",
+    "id": "formik",
     "url": "https://formik.org/",
     "files": [
       {
@@ -15051,7 +15008,7 @@
   },
   {
     "name": "Objective-C",
-    "id": "objective-c",
+    "id": "objectivec",
     "url": "https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html",
     "files": [
       {
@@ -15288,7 +15245,7 @@
   },
   {
     "name": "Cirrus",
-    "id": "cirrus-ci",
+    "id": "cirrusci",
     "url": "https://cirrus-ci.org/",
     "files": [
       {
@@ -15312,7 +15269,7 @@
   },
   {
     "name": "Conan",
-    "id": "conan-io",
+    "id": "conanio",
     "url": "https://conan.io/",
     "files": [
       {
@@ -15459,7 +15416,7 @@
   },
   {
     "name": "Google AdMob",
-    "id": "google-admob",
+    "id": "googleadmob",
     "url": "https://www.google.com/admob/",
     "files": [
       {
@@ -15471,7 +15428,7 @@
   },
   {
     "name": "Google Currents",
-    "id": "google-currents",
+    "id": "googlecurrents",
     "url": "https://workspace.google.com/products/currents/",
     "files": [
       {
@@ -15483,7 +15440,7 @@
   },
   {
     "name": "Google Fit",
-    "id": "google-fit",
+    "id": "googlefit",
     "url": "https://www.google.com/fit/",
     "files": [
       {
@@ -15495,7 +15452,7 @@
   },
   {
     "name": "Google Home",
-    "id": "google-home",
+    "id": "googlehome",
     "url": "https://madeby.google.com/home/",
     "files": [
       {
@@ -15507,7 +15464,7 @@
   },
   {
     "name": "Google Keep",
-    "id": "google-keep",
+    "id": "googlekeep",
     "url": "https://www.google.com/keep/",
     "files": [
       {
@@ -15519,7 +15476,7 @@
   },
   {
     "name": "Google Maps",
-    "id": "google-maps",
+    "id": "googlemaps",
     "url": "https://cloud.google.com/maps-platform/",
     "files": [
       {
@@ -15531,7 +15488,7 @@
   },
   {
     "name": "Google One",
-    "id": "google-one",
+    "id": "googleone",
     "url": "https://one.google.com/",
     "files": [
       {
@@ -15603,7 +15560,7 @@
   },
   {
     "name": "Let's Cloud",
-    "id": "lets-cloud",
+    "id": "letscloud",
     "url": "https://www.letscloud.io/",
     "files": [
       {
@@ -15784,7 +15741,7 @@
   },
   {
     "name": "React Spring",
-    "id": "react-spring",
+    "id": "reactspring",
     "url": "https://www.react-spring.io/",
     "files": [
       {
@@ -15808,6 +15765,11 @@
         "filename": "section.svg",
         "type": "logo",
         "source": "$gb"
+      },
+      {
+        "filename": "sectionio.svg",
+        "type": "icon",
+        "source": "$geticon"
       }
     ]
   },
@@ -15820,6 +15782,11 @@
         "filename": "semaphoreci.svg",
         "type": "icon",
         "source": "$gb"
+      },
+      {
+        "filename": "semaphore.svg",
+        "type": "icon",
+        "source": "$geticon"
       }
     ]
   },
@@ -15960,7 +15927,7 @@
   },
   {
     "name": "Vector",
-    "id": "vector-timber",
+    "id": "vectortimber",
     "url": "https://vector.dev/",
     "files": [
       {
@@ -15996,7 +15963,7 @@
   },
   {
     "name": "Wear OS",
-    "id": "wear-os",
+    "id": "wearos",
     "url": "https://wearos.google.com/",
     "files": [
       {
@@ -16008,7 +15975,7 @@
   },
   {
     "name": "Web Fundamentals",
-    "id": "web-fundamentals",
+    "id": "webfundamentals",
     "url": "https://developers.google.com/web/fundamentals",
     "files": [
       {
@@ -16095,7 +16062,7 @@
   },
   {
     "name": "Zorin OS",
-    "id": "zorin-os",
+    "id": "zorinos",
     "url": "https://zorinos.com/",
     "files": [
       {
@@ -16282,7 +16249,7 @@
   },
   {
     "name": "Samsung Internet",
-    "id": "samsung_internet",
+    "id": "samsunginternet",
     "url": "https://www.samsung.com/us/support/owners/app/samsung-internet",
     "tags": [
       "browser"
@@ -16297,7 +16264,7 @@
   },
   {
     "name": "Sina Weibo",
-    "id": "sina_weibo",
+    "id": "sinaweibo",
     "aliases": [
       "Weibo",
       "新浪微博",
@@ -16362,7 +16329,7 @@
   },
   {
     "name": "Tor Browser",
-    "id": "tor_browser",
+    "id": "torbrowser",
     "url": "https://www.torproject.org/",
     "tags": [
       "browser"
@@ -16381,7 +16348,7 @@
     "aliases": [
       "UC浏览器"
     ],
-    "url": "http://www.ucweb.com/",
+    "url": "https://www.ucweb.com/",
     "tags": [
       "browser"
     ],
@@ -16463,7 +16430,7 @@
   },
   {
     "name": "Wikimedia Commons",
-    "id": "wikimedia_commons",
+    "id": "wikimediacommons",
     "url": "https://commons.wikimedia.org/",
     "tags": [
       "website",
@@ -16513,7 +16480,7 @@
   },
   {
     "name": "Yandex Browser",
-    "id": "yandex_browser",
+    "id": "yandexbrowser",
     "url": "https://browser.yandex.com/",
     "tags": [
       "browser engine",
@@ -16529,7 +16496,7 @@
   },
   {
     "name": "AGPL v3",
-    "id": "agpl_v3",
+    "id": "agplv3",
     "url": "https://www.gnu.org/licenses/agpl-3.0.html",
     "tags": [
       "license"
@@ -16559,7 +16526,7 @@
   },
   {
     "name": "CC0",
-    "id": "cc-0",
+    "id": "cc0",
     "url": "https://creativecommons.org/share-your-work/public-domain/cc0/",
     "tags": [
       "license"
@@ -16574,7 +16541,7 @@
   },
   {
     "name": "Public domain (CC0)",
-    "id": "cc-0-icon",
+    "id": "cc0icon",
     "url": "https://creativecommons.org/share-your-work/public-domain/cc0/",
     "tags": [
       "license"
@@ -16589,7 +16556,7 @@
   },
   {
     "name": "Creative Commons - Attribution (CC-BY)",
-    "id": "cc-by",
+    "id": "ccby",
     "url": "https://creativecommons.org/licenses/by/4.0/",
     "tags": [
       "license"
@@ -16604,7 +16571,7 @@
   },
   {
     "name": "Attribution (BY)",
-    "id": "cc-by-icon",
+    "id": "ccbyicon",
     "url": "https://creativecommons.org/licenses/by/4.0/",
     "tags": [
       "license"
@@ -16619,7 +16586,7 @@
   },
   {
     "name": "Creative Commons - Attribution-Noncommercial (CC-BY-NC)",
-    "id": "cc-by-nc",
+    "id": "ccbync",
     "url": "https://creativecommons.org/licenses/by-nc/4.0/",
     "tags": [
       "license"
@@ -16634,7 +16601,7 @@
   },
   {
     "name": "Creative Commons - Attribution-Noncommercial-NoDerivatives (CC-BY-NC-ND)",
-    "id": "cc-by-nc-nd",
+    "id": "ccbyncnd",
     "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
     "tags": [
       "license"
@@ -16649,7 +16616,7 @@
   },
   {
     "name": "Creative Commons - Attribution-Noncommercial-ShareAlike (CC-BY-NC-SA)",
-    "id": "cc-by-nc-sa",
+    "id": "ccbyncsa",
     "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
     "tags": [
       "license"
@@ -16664,7 +16631,7 @@
   },
   {
     "name": "Creative Commons - Attribution-NoDerivatives (CC-BY-ND)",
-    "id": "cc-by-nd",
+    "id": "ccbynd",
     "url": "https://creativecommons.org/licenses/by-nd/4.0/",
     "tags": [
       "license"
@@ -16679,7 +16646,7 @@
   },
   {
     "name": "Creative Commons - Attribution-ShareAlike (CC-BY-SA)",
-    "id": "cc-by-sa",
+    "id": "ccbysa",
     "url": "https://creativecommons.org/licenses/by-sa/4.0/",
     "tags": [
       "license"
@@ -16694,7 +16661,7 @@
   },
   {
     "name": "Non-commercial (NC)",
-    "id": "cc-nc-icon",
+    "id": "ccncicon",
     "url": "https://creativecommons.org/licenses/by-nc/4.0/",
     "tags": [
       "license"
@@ -16709,7 +16676,7 @@
   },
   {
     "name": "No Derivative Works (ND)",
-    "id": "cc-nd-icon",
+    "id": "ccndicon",
     "url": "https://creativecommons.org/licenses/by-nd/4.0/",
     "tags": [
       "license"
@@ -16724,7 +16691,7 @@
   },
   {
     "name": "Creative Commons - Public Domain Mark",
-    "id": "cc-pd",
+    "id": "ccpd",
     "url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "tags": [
       "license"
@@ -16739,7 +16706,7 @@
   },
   {
     "name": "Public domain (CC)",
-    "id": "cc-pd-icon",
+    "id": "ccpdicon",
     "url": "https://creativecommons.org/publicdomain/mark/1.0/",
     "tags": [
       "license"
@@ -16754,7 +16721,7 @@
   },
   {
     "name": "Share-alike (SA)",
-    "id": "cc-sa-icon",
+    "id": "ccsaicon",
     "url": "https://creativecommons.org/licenses/by-sa/4.0/",
     "tags": [
       "license"
@@ -16784,7 +16751,7 @@
   },
   {
     "name": "GPL v3",
-    "id": "gpl_v3",
+    "id": "gplv3",
     "url": "https://www.gnu.org/licenses/gpl-3.0.html",
     "tags": [
       "license"
@@ -16799,7 +16766,7 @@
   },
   {
     "name": "LGPL v3",
-    "id": "lgpl_v3",
+    "id": "lgplv3",
     "url": "https://www.gnu.org/licenses/lgpl-3.0.html",
     "tags": [
       "license"
@@ -16949,7 +16916,7 @@
   },
   {
     "name": "Daemon Tools",
-    "id": "daemon-tools",
+    "id": "daemontools",
     "url": "https://www.daemon-tools.cc/",
     "files": [
       {
@@ -17017,7 +16984,7 @@
   },
   {
     "name": "Facebook Messenger",
-    "id": "facebook-messenger",
+    "id": "facebookmessenger",
     "aliases": [
       "Messenger"
     ],
@@ -17086,7 +17053,7 @@
   },
   {
     "name": "Google Earth",
-    "id": "google-earth",
+    "id": "googleearth",
     "url": "https://www.google.com/earth/",
     "tags": [
       "google"
@@ -17119,7 +17086,7 @@
   },
   {
     "name": "Kali Linux",
-    "id": "kali-linux",
+    "id": "kalilinux",
     "aliases": [
       "Kali"
     ],
@@ -17357,7 +17324,7 @@
   },
   {
     "name": "Microsoft Teams",
-    "id": "microsoft-teams",
+    "id": "microsoftteams",
     "aliases": [
       "Teams"
     ],
@@ -17424,7 +17391,7 @@
   },
   {
     "name": "Microsoft Office",
-    "id": "microsoft-office",
+    "id": "microsoftoffice",
     "url": "https://www.microsoft.com/en-us/microsoft-365",
     "tags": [
       "microsoft office",
@@ -17550,6 +17517,26 @@
       },
       {
         "filename": "zoom-logo.svg",
+        "type": "logo",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "Workato",
+    "id": "workato",
+    "url": "https://www.workato.com/",
+    "tags": [
+      "automation"
+    ],
+    "files": [
+      {
+        "filename": "workato-icon.svg",
+        "type": "icon",
+        "source": "$geticon"
+      },
+      {
+        "filename": "workato-wordmark.svg",
         "type": "logo",
         "source": "$geticon"
       }
