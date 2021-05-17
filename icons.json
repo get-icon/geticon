@@ -17558,5 +17558,29 @@
         "source": "$geticon"
       }
     ]
+  },
+  {
+    "name": "esbuild",
+    "id": "esbuild",
+    "url": "https://esbuild.github.io/",
+    "files": [
+      {
+        "filename": "esbuild.svg",
+        "type": "icon",
+        "source": "$geticon"
+      }
+    ]
+  },
+  {
+    "name": "WMR",
+    "id": "wmr",
+    "url": "https://github.com/preactjs/wmr",
+    "files": [
+      {
+        "filename": "wmr.svg",
+        "type": "icon",
+        "source": "$geticon"
+      }
+    ]
   }
 ]
