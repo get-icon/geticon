@@ -1,0 +1,8 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+ <clipPath id="b">
+  <path d="m0 0h512v512h-512z"/>
+ </clipPath>
+ <rect width="512" height="512" fill="#2e3440" stroke-width="1.9681"/>
+ <path d="m355.7 156 99.703 99.703-99.703 99.703-99.703-99.703z" fill="#d8dee9"/>
+ <path d="m156.7 156 199.21 199.41h-199.21l-99.703-99.703z" fill="#8ac0cf"/>
+</svg>

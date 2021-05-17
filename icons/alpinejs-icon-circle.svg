@@ -1,0 +1,15 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+ <radialGradient id="a" cx=".431" cy=".33" r=".637" gradientTransform="matrix(1 .001309 -.001309 1 0 -.001)">
+  <stop stop-color="#fff" stop-opacity=".231" offset="0"/>
+  <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+ </radialGradient>
+ <clipPath id="b">
+  <path d="m0 0h512v512h-512z"/>
+ </clipPath>
+ <g clip-path="url(#b)">
+  <circle cx="256" cy="256" r="256" fill="#2e3440"/>
+  <path transform="matrix(.70711 .70711 -.70711 .70711 355.7 156)" d="m0 0h141v141h-141z" fill="#d8dee9"/>
+  <path transform="matrix(.70711 .70711 -.70711 .70711 156.7 156)" d="m0 0 281.86 0.141-140.86 140.86h-141z" fill="#8ac0cf"/>
+  <circle cx="256" cy="256" r="256" fill="url(#a)"/>
+ </g>
+</svg>

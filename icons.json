@@ -17541,5 +17541,22 @@
         "source": "$geticon"
       }
     ]
+  },
+  {
+    "name": "Alpine.js",
+    "id": "alpinejs",
+    "url": "https://github.com/alpinejs/alpine",
+    "files": [
+      {
+        "filename": "alpinejs.svg",
+        "type": "icon",
+        "source": "$geticon"
+      },
+      {
+        "filename": "alpinejs-icon-circle.svg",
+        "type": "icon",
+        "source": "$geticon"
+      }
+    ]
   }
 ]
