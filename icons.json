@@ -7227,6 +7227,22 @@
     ]
   },
   {
+    "name": "Orchid",
+    "id": "orchid",
+    "aliases": [
+      "Orchid",
+      "Laravel-Orchid"
+    ],
+    "url": "https://orchid.software/en/",
+    "files": [
+      {
+        "filename": "orchid.svg",
+        "type": "icon",
+        "source": "$gb"
+      }
+    ]
+  },
+  {
     "name": "Livewire",
     "id": "livewire",
     "aliases": [
