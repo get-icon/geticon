@@ -7236,9 +7236,9 @@
     "url": "https://orchid.software/en/",
     "files": [
       {
-        "filename": "orchid.svg",
-        "type": "icon",
-        "source": "$gb"
+        "filename": "orchid-monochrome.svg",
+        "type": "icon-monochrome",
+        "source": "$geticon"
       }
     ]
   },
