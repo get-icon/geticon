@@ -7230,11 +7230,21 @@
     "name": "Orchid",
     "id": "orchid",
     "aliases": [
-      "Orchid",
-      "Laravel-Orchid"
+      "Orchid Platform",
+      "Laravel Orchid"
     ],
-    "url": "https://orchid.software/en/",
+    "url": "https://orchid.software/",
     "files": [
+      {
+        "filename": "orchid.svg",
+        "type": "icon",
+        "source": "$geticon"
+      },
+      {
+        "filename": "orchid-logo.svg",
+        "type": "logo",
+        "source": "$geticon"
+      },
       {
         "filename": "orchid-monochrome.svg",
         "type": "icon-monochrome",
