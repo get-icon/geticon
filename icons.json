@@ -17579,6 +17579,11 @@
         "source": "$geticon"
       },
       {
+        "filename": "alpine_long.svg",
+        "type": "icon",
+        "source": "$geticon"
+      },
+      {
         "filename": "alpinejs-icon-circle.svg",
         "type": "icon",
         "source": "$geticon"
