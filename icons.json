@@ -17579,6 +17579,11 @@
         "source": "$geticon"
       },
       {
+        "filename": "alpinejs-logo.svg",
+        "type": "logo",
+        "source": "$geticon"
+      },
+      {
         "filename": "alpinejs-icon-circle.svg",
         "type": "icon",
         "source": "$geticon"
